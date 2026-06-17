@@ -1,0 +1,2105 @@
+filename,label,label_name,transcription,intelligibility,num_error_segs,mean_confidence
+1_1287.npy,1,dysarthric,FOWL,98.5,0,0.9852
+1_843.npy,1,dysarthric,THEN WE'D RIALL,96.9,0,0.9694
+0_273.npy,0,non_dysarthric,JUST ONE SIDE GOT WET,98.1,0,0.9815
+1_1474.npy,1,dysarthric,WE MUST BE READY,97.6,0,0.9756
+0_352.npy,0,non_dysarthric,TIX,97.6,0,0.9762
+0_85.npy,0,non_dysarthric,LEFT,98.2,0,0.9819
+0_268.npy,0,non_dysarthric,SEARCH,99.1,0,0.9911
+0_128.npy,0,non_dysarthric,CON,96.6,1,0.9657
+0_315.npy,0,non_dysarthric,BUT HUMILITY IFS OVER,93.8,2,0.938
+1_1424.npy,1,dysarthric,IT WAS TIME TO G,98.0,0,0.9798
+0_341.npy,0,non_dysarthric,YET HE STILL THINKS AS,97.5,0,0.9755
+1_1867.npy,1,dysarthric,I LOOKED UP,97.1,0,0.9711
+0_390.npy,0,non_dysarthric,DARK,98.4,0,0.984
+0_325.npy,0,non_dysarthric,I JUST TRIED TO DO MY,97.2,0,0.9718
+1_1116.npy,1,dysarthric,HAIL,97.8,0,0.9777
+1_1517.npy,1,dysarthric,BAG,99.9,0,0.9987
+1_1748.npy,1,dysarthric,DUG,99.0,0,0.9904
+1_1175.npy,1,dysarthric,A FIRE IN A S,97.5,1,0.9751
+1_1383.npy,1,dysarthric,HAN,98.7,0,0.9874
+0_279.npy,0,non_dysarthric,NOTHINGIS AS A,95.5,1,0.9554
+1_1587.npy,1,dysarthric,OWL,99.7,0,0.997
+1_1319.npy,1,dysarthric,THE PLOT IS,98.7,0,0.9867
+0_358.npy,0,non_dysarthric,FAIR,98.7,0,0.9872
+1_1142.npy,1,dysarthric,BEST,98.9,0,0.9891
+0_17.npy,0,non_dysarthric,YOU KNOW,95.2,1,0.952
+1_647.npy,1,dysarthric,HE,97.9,0,0.9789
+1_890.npy,1,dysarthric,FAIR,98.3,0,0.9835
+1_800.npy,1,dysarthric,DAY AFTER D,98.8,0,0.9881
+1_1078.npy,1,dysarthric,DO THEY MAKE AN,98.2,0,0.9822
+1_741.npy,1,dysarthric,PE,97.9,1,0.9793
+1_1241.npy,1,dysarthric,EARS,98.1,0,0.9809
+1_1252.npy,1,dysarthric,[unclear],86.1,0,0.8613
+0_343.npy,0,non_dysarthric,NEW,98.7,1,0.9868
+1_638.npy,1,dysarthric,I,97.2,1,0.9723
+1_1982.npy,1,dysarthric,SEVEN,99.1,0,0.9913
+0_110.npy,0,non_dysarthric,NO,98.6,0,0.9864
+1_1128.npy,1,dysarthric,GOD,97.9,0,0.9792
+0_387.npy,0,non_dysarthric,POARING,98.3,0,0.9827
+0_314.npy,0,non_dysarthric,FICA,97.7,0,0.977
+1_1157.npy,1,dysarthric,CASH,99.3,0,0.9932
+0_25.npy,0,non_dysarthric,PING,96.0,2,0.9598
+1_1072.npy,1,dysarthric,CHOP,99.3,0,0.9935
+1_1433.npy,1,dysarthric,FEED,98.3,0,0.9831
+0_454.npy,0,non_dysarthric,[unclear],95.9,0,0.9595
+0_206.npy,0,non_dysarthric,HE DRESSS HANDS OFF,94.6,0,0.9464
+1_1652.npy,1,dysarthric,BUST,97.5,0,0.9745
+1_2045.npy,1,dysarthric,HEART,99.0,0,0.9898
+1_1841.npy,1,dysarthric,MOTHE,98.8,1,0.9877
+0_120.npy,0,non_dysarthric,GO,99.8,0,0.9983
+1_1281.npy,1,dysarthric,FAN,99.1,0,0.9907
+1_1382.npy,1,dysarthric,CAKE,99.3,0,0.993
+0_444.npy,0,non_dysarthric,CAR,97.4,0,0.9745
+1_955.npy,1,dysarthric,HELP CELEBRATE Y,98.3,0,0.9833
+1_1795.npy,1,dysarthric,DON'T ASK ME JI,95.4,2,0.9539
+1_1842.npy,1,dysarthric,WHITE,98.9,0,0.9886
+1_868.npy,1,dysarthric,HELP GRAGG,97.9,0,0.9787
+1_1719.npy,1,dysarthric,SIP,99.2,0,0.9921
+1_698.npy,1,dysarthric,CU,99.1,0,0.9915
+1_2102.npy,1,dysarthric,YOU KNOW,96.9,0,0.9688
+0_295.npy,0,non_dysarthric,SIH,97.8,1,0.9779
+1_1935.npy,1,dysarthric,WE GATHERED SHALLS,94.7,2,0.9466
+1_2095.npy,1,dysarthric,WHICH,99.0,0,0.9904
+1_1723.npy,1,dysarthric,AIR,99.6,0,0.9956
+1_779.npy,1,dysarthric,EIGHT,98.4,0,0.9837
+1_1730.npy,1,dysarthric,SPARK,99.3,0,0.9933
+1_925.npy,1,dysarthric,NOD,99.2,0,0.9921
+1_778.npy,1,dysarthric,LEAGUE,97.7,0,0.9766
+1_1463.npy,1,dysarthric,TORN,98.6,0,0.9863
+1_1408.npy,1,dysarthric,WHACK,99.2,0,0.9925
+1_2085.npy,1,dysarthric,JULIET,99.4,0,0.994
+0_421.npy,0,non_dysarthric,BETDER,98.2,1,0.9817
+0_131.npy,0,non_dysarthric,YES,98.7,0,0.9871
+1_1289.npy,1,dysarthric,CHARM,98.9,0,0.9886
+1_1884.npy,1,dysarthric,NIGHT,97.4,0,0.9741
+1_1720.npy,1,dysarthric,E,97.6,0,0.9763
+1_1495.npy,1,dysarthric,CALL,99.5,0,0.9951
+1_902.npy,1,dysarthric,IN,99.3,0,0.9934
+1_1410.npy,1,dysarthric,SHORT,98.5,0,0.9852
+0_162.npy,0,non_dysarthric,EXCEPT IN THE WINTER,97.9,0,0.9789
+1_1502.npy,1,dysarthric,NOT,98.3,0,0.9834
+1_1614.npy,1,dysarthric,SEVERAL PAINT,97.8,0,0.9779
+0_266.npy,0,non_dysarthric,I LICKED UP AND NOTICED TO,95.9,1,0.9591
+1_1685.npy,1,dysarthric,THEY COULD WALK,99.0,0,0.99
+1_1138.npy,1,dysarthric,FENDER,99.3,0,0.9934
+1_765.npy,1,dysarthric,START,99.1,0,0.9912
+1_1444.npy,1,dysarthric,FARM,99.0,0,0.9896
+1_1543.npy,1,dysarthric,FILE,98.4,0,0.9836
+1_874.npy,1,dysarthric,BITTER,98.7,0,0.987
+0_310.npy,0,non_dysarthric,HE WILL ALLOW A WEARE LI,93.6,0,0.9358
+0_394.npy,0,non_dysarthric,RACE,99.5,0,0.9952
+1_1493.npy,1,dysarthric,BOT,97.8,0,0.9784
+1_1225.npy,1,dysarthric,LIES,98.4,0,0.9837
+1_1828.npy,1,dysarthric,HERE,97.8,1,0.9782
+1_799.npy,1,dysarthric,THE MUSE,98.9,0,0.9893
+1_593.npy,1,dysarthric,[unclear],77.4,0,0.7739
+1_1656.npy,1,dysarthric,SLEM,98.4,0,0.9841
+1_1877.npy,1,dysarthric,BRIGHT S,95.8,1,0.9585
+1_840.npy,1,dysarthric,THE PROSPEC,99.6,0,0.9963
+1_935.npy,1,dysarthric,NO,99.5,0,0.9946
+1_1156.npy,1,dysarthric,IT REQUIRES NO,98.1,0,0.9811
+1_728.npy,1,dysarthric,CAKE,99.2,0,0.9921
+1_937.npy,1,dysarthric,YOU CAN RIDE,98.3,0,0.9834
+1_1521.npy,1,dysarthric,SPACE,99.7,0,0.9968
+1_1312.npy,1,dysarthric,I DIDN'T KNOW,98.4,0,0.9844
+0_221.npy,0,non_dysarthric,DOVER,97.6,0,0.9764
+1_1802.npy,1,dysarthric,BUD,99.8,0,0.9982
+1_716.npy,1,dysarthric,HOTEL,99.3,0,0.993
+1_1487.npy,1,dysarthric,PAID,99.2,0,0.9919
+1_1736.npy,1,dysarthric,BUBBL,97.9,1,0.979
+1_1599.npy,1,dysarthric,SO ANL,97.8,1,0.9781
+1_1800.npy,1,dysarthric,PHIP,97.9,0,0.9792
+0_35.npy,0,non_dysarthric,WELL OFF GOD CON,91.1,3,0.9108
+1_1394.npy,1,dysarthric,WAX,99.4,0,0.9945
+1_668.npy,1,dysarthric,[unclear],98.4,0,0.9839
+1_1087.npy,1,dysarthric,RIP,99.4,0,0.9937
+1_1110.npy,1,dysarthric,FEAR,99.2,0,0.9916
+1_625.npy,1,dysarthric,G,99.7,0,0.9966
+0_322.npy,0,non_dysarthric,MENU,97.6,1,0.9761
+1_1732.npy,1,dysarthric,ELPHA,98.4,0,0.9839
+1_1985.npy,1,dysarthric,SURGEON,98.3,0,0.9833
+1_1021.npy,1,dysarthric,KATE,98.7,0,0.9874
+1_969.npy,1,dysarthric,THIN,98.6,0,0.9859
+1_1429.npy,1,dysarthric,LAST YEAR'S,98.1,0,0.9813
+0_156.npy,0,non_dysarthric,TWICE E,97.5,0,0.9753
+1_1111.npy,1,dysarthric,AT TWILIGH,98.5,0,0.9849
+1_1338.npy,1,dysarthric,PAN,99.1,0,0.9906
+0_517.npy,0,non_dysarthric,PAY,99.6,0,0.9956
+1_651.npy,1,dysarthric,[unclear],88.3,0,0.8831
+1_1840.npy,1,dysarthric,MOTHER,98.9,0,0.9888
+1_1897.npy,1,dysarthric,WISH,99.6,0,0.9959
+0_227.npy,0,non_dysarthric,DON'T ASK ME TO CARRY IT OR,96.1,0,0.9613
+0_367.npy,0,non_dysarthric,NO,99.6,0,0.9957
+1_1330.npy,1,dysarthric,CHOP,99.3,0,0.9926
+0_460.npy,0,non_dysarthric,THAT,99.1,0,0.9905
+0_433.npy,0,non_dysarthric,FOUR,99.0,0,0.9904
+1_558.npy,1,dysarthric,SWA,97.6,1,0.9759
+1_622.npy,1,dysarthric,TOR,99.3,0,0.9931
+1_2063.npy,1,dysarthric,LOYAL,96.7,2,0.9667
+1_2089.npy,1,dysarthric,FIT,98.3,0,0.9833
+1_862.npy,1,dysarthric,TREAD,99.7,0,0.9975
+1_1356.npy,1,dysarthric,WE HAVE TO EXPECT,98.4,0,0.9837
+0_274.npy,0,non_dysarthric,EIGHT,97.0,0,0.9702
+1_1358.npy,1,dysarthric,INK,99.5,0,0.9952
+0_472.npy,0,non_dysarthric,HERE,99.0,0,0.9901
+0_123.npy,0,non_dysarthric,INGRAFIN HIMSELF,93.5,2,0.9347
+1_1201.npy,1,dysarthric,CATOSTROPHIC,99.0,0,0.9897
+1_1659.npy,1,dysarthric,PORCH,99.0,0,0.9902
+1_1746.npy,1,dysarthric,STUBBLE,98.3,0,0.9833
+1_962.npy,1,dysarthric,DON'T DO,99.0,0,0.9902
+1_1837.npy,1,dysarthric,GOT,97.1,1,0.9711
+1_1757.npy,1,dysarthric,YOU WISHD,96.5,0,0.9645
+0_214.npy,0,non_dysarthric,KLON,97.7,0,0.9771
+0_134.npy,0,non_dysarthric,[unclear],95.6,0,0.9556
+0_198.npy,0,non_dysarthric,GLOW,99.2,0,0.9921
+1_1574.npy,1,dysarthric,WILL YOU PLEASE,99.0,0,0.9904
+0_40.npy,0,non_dysarthric,AY,97.9,1,0.9785
+1_889.npy,1,dysarthric,DREAD,99.1,0,0.9911
+1_1075.npy,1,dysarthric,FHO,97.2,2,0.9718
+1_861.npy,1,dysarthric,SHEET,99.7,0,0.9971
+0_117.npy,0,non_dysarthric,[unclear],91.1,1,0.9111
+1_1584.npy,1,dysarthric,FINAL,99.7,0,0.9969
+1_1944.npy,1,dysarthric,BRIAR,98.9,0,0.9888
+1_1766.npy,1,dysarthric,OR READ,98.7,0,0.9869
+1_926.npy,1,dysarthric,THIS IS,98.4,0,0.9842
+1_880.npy,1,dysarthric,ONLY LAWYER,99.1,0,0.9913
+1_1359.npy,1,dysarthric,RISE,99.4,0,0.9942
+0_473.npy,0,non_dysarthric,WISH,99.4,0,0.9938
+1_1160.npy,1,dysarthric,THAT PICKPOC,98.7,0,0.9872
+0_379.npy,0,non_dysarthric,ERE,97.6,1,0.9756
+1_1007.npy,1,dysarthric,FQET,97.1,1,0.9709
+1_856.npy,1,dysarthric,MIT,97.7,0,0.9772
+1_581.npy,1,dysarthric,GO ON,98.2,0,0.9821
+0_290.npy,0,non_dysarthric,FAIR,98.8,0,0.9882
+0_398.npy,0,non_dysarthric,GIVING THOSE,98.0,1,0.9803
+1_1716.npy,1,dysarthric,LO,97.0,1,0.9699
+0_30.npy,0,non_dysarthric,THOUGH QUICK BON FOG,92.1,3,0.9213
+1_1872.npy,1,dysarthric,SUT,97.5,0,0.9748
+1_1006.npy,1,dysarthric,IN FACT OUR WHO,97.3,0,0.973
+1_2044.npy,1,dysarthric,THAT,99.2,0,0.9924
+1_656.npy,1,dysarthric,FOR,98.0,1,0.9805
+1_1546.npy,1,dysarthric,OLD TELEPHONE,97.7,0,0.9774
+1_1967.npy,1,dysarthric,RICH,99.0,0,0.9899
+1_1428.npy,1,dysarthric,HALE,98.3,0,0.9834
+1_717.npy,1,dysarthric,HOTEL,99.2,0,0.9917
+0_121.npy,0,non_dysarthric,GAGNU,97.0,0,0.9699
+1_2097.npy,1,dysarthric,SPARK,99.2,0,0.9924
+1_1772.npy,1,dysarthric,CAR,97.6,1,0.9759
+1_965.npy,1,dysarthric,NO,98.7,0,0.9874
+1_1687.npy,1,dysarthric,BOTH,99.4,0,0.9936
+1_1238.npy,1,dysarthric,CHALK WI,96.3,1,0.9628
+1_1050.npy,1,dysarthric,TORT,98.9,0,0.9891
+1_597.npy,1,dysarthric,DE,98.9,0,0.9886
+1_1522.npy,1,dysarthric,NAVEL,99.0,0,0.99
+0_436.npy,0,non_dysarthric,TRAIN,99.0,0,0.9899
+1_1219.npy,1,dysarthric,DOC,99.3,0,0.9929
+1_1406.npy,1,dysarthric,THE FAMILY,97.2,0,0.9722
+1_692.npy,1,dysarthric,[unclear],97.3,1,0.9726
+1_1973.npy,1,dysarthric,WEEK,99.2,0,0.9921
+1_1441.npy,1,dysarthric,[unclear],91.8,0,0.9181
+1_1074.npy,1,dysarthric,THREE,99.1,0,0.9915
+1_691.npy,1,dysarthric,I DO,98.4,1,0.984
+1_1018.npy,1,dysarthric,COURT,99.0,0,0.9904
+1_1923.npy,1,dysarthric,FEAR,99.6,0,0.9959
+1_1993.npy,1,dysarthric,LAIRE,98.7,0,0.9872
+0_226.npy,0,non_dysarthric,WHEN HE SPEAKS HIS VOICE IS,97.7,0,0.9769
+0_324.npy,0,non_dysarthric,SLY,98.9,0,0.9893
+1_1379.npy,1,dysarthric,WAS,98.5,0,0.9848
+1_1179.npy,1,dysarthric,HER CLASSICAL,98.6,0,0.9864
+1_1425.npy,1,dysarthric,HOWL,98.5,1,0.985
+0_363.npy,0,non_dysarthric,STORE,99.5,0,0.9946
+0_104.npy,0,non_dysarthric,RE,97.2,0,0.9721
+0_7.npy,0,non_dysarthric,OH SO IN THE WAY,94.8,0,0.9481
+1_1677.npy,1,dysarthric,GROPE,99.3,0,0.993
+1_1249.npy,1,dysarthric,BUN,98.2,0,0.9824
+1_1455.npy,1,dysarthric,WHIPE,98.8,0,0.9883
+1_687.npy,1,dysarthric,SI,99.7,0,0.997
+1_2017.npy,1,dysarthric,A LUMINOUS,98.3,1,0.9826
+1_2099.npy,1,dysarthric,THE MISGUIDED,98.4,0,0.9843
+0_347.npy,0,non_dysarthric,FLORIN,97.0,0,0.9704
+1_1606.npy,1,dysarthric,WAGES ARE A K,97.2,0,0.9719
+1_1186.npy,1,dysarthric,TWO,99.7,0,0.9968
+0_414.npy,0,non_dysarthric,BREED,98.0,0,0.9804
+1_796.npy,1,dysarthric,SPARK,99.5,0,0.9954
+1_907.npy,1,dysarthric,THING,97.7,0,0.9772
+0_44.npy,0,non_dysarthric,BIT,99.4,0,0.9938
+1_1305.npy,1,dysarthric,WE ALL SAT DOW,98.7,0,0.9872
+1_1831.npy,1,dysarthric,ROCKS,98.6,0,0.9863
+1_1564.npy,1,dysarthric,NOW,98.9,0,0.9887
+0_375.npy,0,non_dysarthric,TOO,98.9,0,0.9892
+1_538.npy,1,dysarthric,EPA I,97.6,1,0.9756
+1_771.npy,1,dysarthric,SPAIN,99.0,0,0.9898
+1_1826.npy,1,dysarthric,FOR,96.5,1,0.9651
+1_1354.npy,1,dysarthric,HASH,99.5,0,0.9949
+0_76.npy,0,non_dysarthric,ERH,97.5,0,0.9752
+0_311.npy,0,non_dysarthric,PAT,99.3,0,0.9929
+1_1404.npy,1,dysarthric,THINK,99.1,0,0.9914
+0_280.npy,0,non_dysarthric,[unclear],84.8,0,0.8481
+1_1194.npy,1,dysarthric,FORK,97.8,0,0.9781
+0_140.npy,0,non_dysarthric,GOAT,98.8,0,0.988
+0_91.npy,0,non_dysarthric,SLOPE,99.0,0,0.9903
+0_180.npy,0,non_dysarthric,YES,99.7,0,0.9971
+1_984.npy,1,dysarthric,CHAIR,98.4,0,0.9843
+1_1397.npy,1,dysarthric,THE STORE SI,98.3,0,0.9827
+0_90.npy,0,non_dysarthric,ALONG FOR WE MIL,93.4,1,0.9343
+1_1934.npy,1,dysarthric,TRUT,98.4,0,0.984
+1_1476.npy,1,dysarthric,VAN,98.6,0,0.9864
+1_1762.npy,1,dysarthric,HARAID,96.2,2,0.962
+1_1512.npy,1,dysarthric,PANEL,99.0,0,0.9903
+0_229.npy,0,non_dysarthric,RAG,97.6,0,0.9758
+1_748.npy,1,dysarthric,LAKE,97.9,0,0.9786
+1_1076.npy,1,dysarthric,RISE,99.1,0,0.9909
+1_1403.npy,1,dysarthric,THINK,98.1,0,0.9806
+1_1627.npy,1,dysarthric,THE MISPRINT,98.2,0,0.9823
+1_746.npy,1,dysarthric,WHEN ALL OUT,95.1,2,0.9511
+1_714.npy,1,dysarthric,WRIT,98.5,0,0.9847
+1_554.npy,1,dysarthric,BO,99.2,0,0.9922
+1_666.npy,1,dysarthric,AIR,99.6,0,0.9958
+1_1256.npy,1,dysarthric,BLUNDE,97.1,1,0.9708
+1_1212.npy,1,dysarthric,TEMPER,99.4,0,0.9936
+1_867.npy,1,dysarthric,THE HOTAL,98.1,0,0.9805
+1_1255.npy,1,dysarthric,BEGIN BY,99.3,0,0.993
+1_1725.npy,1,dysarthric,ME,99.3,0,0.9929
+1_578.npy,1,dysarthric,[unclear],83.1,0,0.8313
+1_1824.npy,1,dysarthric,ONE,98.3,0,0.9829
+1_1740.npy,1,dysarthric,BAT,99.1,0,0.9906
+0_329.npy,0,non_dysarthric,URGENT,98.4,0,0.984
+1_1735.npy,1,dysarthric,RANGE,98.4,0,0.9842
+0_488.npy,0,non_dysarthric,CRUP,96.5,0,0.9653
+1_1754.npy,1,dysarthric,SLIP,99.0,0,0.9902
+1_1662.npy,1,dysarthric,CONVERGE,98.7,0,0.9867
+1_1514.npy,1,dysarthric,THAT,99.7,0,0.9974
+1_1559.npy,1,dysarthric,IT FELL OUT OF HIS P,98.7,0,0.9866
+1_1619.npy,1,dysarthric,FOUR,99.4,0,0.9938
+0_24.npy,0,non_dysarthric,B,98.1,1,0.9814
+0_23.npy,0,non_dysarthric,ME,99.7,0,0.9969
+1_1083.npy,1,dysarthric,WHIT,97.1,2,0.9709
+1_1395.npy,1,dysarthric,BED,99.7,0,0.9973
+0_0.npy,0,non_dysarthric,OH PER O PE,92.3,4,0.9229
+1_1448.npy,1,dysarthric,ALL,99.1,0,0.991
+1_1704.npy,1,dysarthric,TARE,97.7,0,0.9774
+1_974.npy,1,dysarthric,RIDE,99.2,0,0.9921
+0_154.npy,0,non_dysarthric,IM I SEE,97.5,1,0.9746
+1_1445.npy,1,dysarthric,FORB,96.9,0,0.9688
+0_443.npy,0,non_dysarthric,LEAD,98.8,0,0.9884
+0_1.npy,0,non_dysarthric,A PEE I P,93.0,4,0.9302
+1_596.npy,1,dysarthric,BRAIN,98.8,0,0.9877
+1_1680.npy,1,dysarthric,TRAIN,98.9,0,0.9891
+1_1486.npy,1,dysarthric,BILL,98.0,0,0.9796
+1_621.npy,1,dysarthric,NO,99.2,0,0.9925
+1_2065.npy,1,dysarthric,NIGHT AFTER NIG,98.2,0,0.9825
+1_1036.npy,1,dysarthric,HOLD,95.5,1,0.955
+1_611.npy,1,dysarthric,BUT HE AL,94.7,4,0.9474
+1_1299.npy,1,dysarthric,WE TALKED ABOUT THE,98.9,0,0.9894
+1_720.npy,1,dysarthric,THE YOUNG BLOC,98.3,1,0.9833
+0_269.npy,0,non_dysarthric,WHERE,98.5,1,0.9846
+1_1471.npy,1,dysarthric,STABLE,98.7,0,0.9874
+1_1621.npy,1,dysarthric,MOST WEEDS,98.7,0,0.9873
+1_537.npy,1,dysarthric,[unclear],77.1,0,0.7711
+1_1029.npy,1,dysarthric,CASH,99.8,0,0.9979
+1_1913.npy,1,dysarthric,ERROR,99.3,0,0.9934
+1_1366.npy,1,dysarthric,THEY'LL NEVER FIT,97.9,0,0.9794
+1_536.npy,1,dysarthric,AH,98.6,0,0.9855
+1_1388.npy,1,dysarthric,WISE,99.6,0,0.996
+0_43.npy,0,non_dysarthric,GROS,95.8,2,0.9584
+1_1227.npy,1,dysarthric,HANCH,99.5,0,0.9953
+1_1498.npy,1,dysarthric,FILL THAT CANTI,94.7,1,0.9474
+0_292.npy,0,non_dysarthric,MUCH,98.5,0,0.985
+0_383.npy,0,non_dysarthric,RE,97.4,1,0.9736
+1_1820.npy,1,dysarthric,MEAT,99.2,0,0.9924
+1_1484.npy,1,dysarthric,BE,98.7,0,0.9867
+1_1041.npy,1,dysarthric,THERE WAS ONLY,98.0,0,0.9805
+0_59.npy,0,non_dysarthric,BORUM,98.0,1,0.9804
+0_495.npy,0,non_dysarthric,[unclear],99.1,0,0.9905
+1_2029.npy,1,dysarthric,IT WAS,99.6,0,0.9958
+1_2030.npy,1,dysarthric,ALAMON,97.4,0,0.9737
+0_369.npy,0,non_dysarthric,GRANDF,99.0,0,0.9904
+1_887.npy,1,dysarthric,TWO,99.2,0,0.9924
+1_1796.npy,1,dysarthric,BIT,99.5,0,0.9945
+1_1183.npy,1,dysarthric,THE MARRIAGE WENT W,96.6,0,0.9664
+1_1300.npy,1,dysarthric,ROU,97.7,0,0.9771
+0_458.npy,0,non_dysarthric,RIT,96.8,1,0.968
+1_706.npy,1,dysarthric,CHOP,99.2,0,0.992
+1_1038.npy,1,dysarthric,I'VE KEPT IT WITH,96.2,0,0.9616
+1_1607.npy,1,dysarthric,RAIN,99.3,0,0.9929
+0_181.npy,0,non_dysarthric,FAK,97.0,1,0.9703
+0_439.npy,0,non_dysarthric,PART,97.4,0,0.9743
+1_1628.npy,1,dysarthric,CONTRACT,99.6,0,0.9964
+1_1709.npy,1,dysarthric,O,95.3,1,0.953
+1_1437.npy,1,dysarthric,GOD,99.2,0,0.9924
+1_928.npy,1,dysarthric,LIQUOR,99.3,0,0.9928
+1_812.npy,1,dysarthric,FIDDING,98.2,0,0.982
+0_192.npy,0,non_dysarthric,DARKIN,98.1,1,0.9806
+0_178.npy,0,non_dysarthric,BIKE,97.7,1,0.9766
+1_1414.npy,1,dysarthric,[unclear],86.0,0,0.8597
+0_256.npy,0,non_dysarthric,FEE,99.0,0,0.9902
+1_878.npy,1,dysarthric,GEDDA,96.7,4,0.9665
+0_118.npy,0,non_dysarthric,PIKE,98.7,0,0.9873
+1_1034.npy,1,dysarthric,LEE,98.2,0,0.9818
+0_318.npy,0,non_dysarthric,HERE,98.4,0,0.9839
+0_82.npy,0,non_dysarthric,SOAP,99.5,0,0.9954
+1_1906.npy,1,dysarthric,JUST A,98.0,1,0.9797
+1_1527.npy,1,dysarthric,DAMP,98.8,0,0.9883
+1_699.npy,1,dysarthric,[unclear],92.9,0,0.9294
+0_312.npy,0,non_dysarthric,SCRAPE,96.4,1,0.9643
+1_1693.npy,1,dysarthric,CONSERVE,98.2,0,0.9822
+0_373.npy,0,non_dysarthric,SH,98.8,0,0.9876
+1_672.npy,1,dysarthric,HERE,99.5,0,0.9951
+0_96.npy,0,non_dysarthric,GIRMEL,96.7,1,0.9672
+1_826.npy,1,dysarthric,THOUGHT,99.0,0,0.9896
+1_923.npy,1,dysarthric,[unclear],99.3,0,0.9929
+1_2086.npy,1,dysarthric,THOUGHT,99.0,0,0.9902
+1_1492.npy,1,dysarthric,FELL,98.8,0,0.9883
+1_595.npy,1,dysarthric,[unclear],99.5,0,0.9954
+1_1296.npy,1,dysarthric,[unclear],98.1,0,0.9812
+0_520.npy,0,non_dysarthric,MUCH,99.5,0,0.9948
+1_1310.npy,1,dysarthric,SAT,97.5,0,0.9752
+0_504.npy,0,non_dysarthric,TILES,96.7,0,0.9675
+1_729.npy,1,dysarthric,NE DA,95.3,0,0.9535
+1_1489.npy,1,dysarthric,WALL,97.9,1,0.9791
+1_1692.npy,1,dysarthric,LIST,99.6,0,0.9959
+1_1010.npy,1,dysarthric,SHED,99.8,0,0.9978
+0_97.npy,0,non_dysarthric,BOL,95.7,1,0.9566
+1_1178.npy,1,dysarthric,FORK,98.4,0,0.9841
+1_1280.npy,1,dysarthric,HARM,98.3,1,0.9826
+1_1626.npy,1,dysarthric,JUDGE,99.0,0,0.9902
+1_1810.npy,1,dysarthric,GIVING THOSE,98.0,1,0.9798
+1_769.npy,1,dysarthric,DARK,99.6,0,0.9959
+1_989.npy,1,dysarthric,LEEK,99.1,0,0.9906
+1_1631.npy,1,dysarthric,SCORE,98.7,0,0.9872
+1_1707.npy,1,dysarthric,RAIN,98.2,0,0.9821
+0_411.npy,0,non_dysarthric,JAGGED,99.0,0,0.9903
+1_1741.npy,1,dysarthric,TOO I SI HEN,91.3,3,0.9134
+1_1976.npy,1,dysarthric,HELL,97.3,0,0.9727
+1_1181.npy,1,dysarthric,SEVEN,99.6,0,0.9962
+0_14.npy,0,non_dysarthric,OH,99.3,0,0.9925
+0_370.npy,0,non_dysarthric,TIP,99.7,0,0.9965
+1_1595.npy,1,dysarthric,PSAWM,95.3,0,0.9528
+1_1653.npy,1,dysarthric,DEPRESS,98.6,0,0.9856
+1_738.npy,1,dysarthric,THE BOX,99.4,0,0.9936
+1_2054.npy,1,dysarthric,[unclear],99.5,0,0.9949
+0_108.npy,0,non_dysarthric,HORN,99.3,0,0.9927
+1_2072.npy,1,dysarthric,O COLLEGE SOCE,94.0,2,0.9395
+1_1294.npy,1,dysarthric,FATE,99.2,0,0.9921
+1_1894.npy,1,dysarthric,SHNUK,96.0,0,0.9596
+0_10.npy,0,non_dysarthric,MAY,99.0,0,0.9896
+1_941.npy,1,dysarthric,TEN,98.8,0,0.9881
+1_960.npy,1,dysarthric,FED,99.1,0,0.9906
+0_350.npy,0,non_dysarthric,YOU WISH,98.5,0,0.9847
+1_1180.npy,1,dysarthric,[unclear],84.2,0,0.8422
+1_607.npy,1,dysarthric,[unclear],72.0,0,0.7205
+1_964.npy,1,dysarthric,SO,99.6,0,0.9957
+1_858.npy,1,dysarthric,FLICKER,99.2,0,0.9923
+1_1585.npy,1,dysarthric,WE JUST SAT,98.1,0,0.9808
+1_982.npy,1,dysarthric,SAID,99.9,0,0.9991
+1_623.npy,1,dysarthric,S,98.4,1,0.9837
+1_2050.npy,1,dysarthric,THERE IS A,98.4,0,0.9839
+1_853.npy,1,dysarthric,THICKER,98.9,0,0.9887
+1_916.npy,1,dysarthric,WE HAVE AN,98.4,1,0.9839
+1_996.npy,1,dysarthric,BIBLICAL SCAL,97.0,0,0.9698
+1_1609.npy,1,dysarthric,WE SAW THREE,98.8,0,0.9885
+1_1557.npy,1,dysarthric,PALE,99.3,0,0.9928
+0_447.npy,0,non_dysarthric,WE HAVE OFTEN,99.2,0,0.9918
+1_695.npy,1,dysarthric,TWO,99.5,0,0.995
+1_1552.npy,1,dysarthric,IT,99.3,0,0.9929
+1_1184.npy,1,dysarthric,I TELL YOU,98.5,0,0.9846
+1_919.npy,1,dysarthric,ROMEO,99.6,0,0.9964
+1_1335.npy,1,dysarthric,TRY TO WORK THING,97.7,0,0.9771
+1_606.npy,1,dysarthric,[unclear],72.4,0,0.7243
+1_689.npy,1,dysarthric,DE,99.9,0,0.9991
+1_1905.npy,1,dysarthric,FOUR,99.0,0,0.9903
+1_1530.npy,1,dysarthric,MABEL,99.6,0,0.9959
+1_1990.npy,1,dysarthric,HACK,99.2,0,0.9922
+0_420.npy,0,non_dysarthric,FAT,97.4,1,0.9738
+1_2041.npy,1,dysarthric,HE FURTHER,98.5,0,0.9851
+0_202.npy,0,non_dysarthric,TIRT,98.0,1,0.9796
+1_885.npy,1,dysarthric,RED,98.3,0,0.9829
+1_2077.npy,1,dysarthric,SHY,98.8,0,0.9876
+1_1737.npy,1,dysarthric,VE,95.1,2,0.9507
+1_1777.npy,1,dysarthric,YESRIA SWO,94.1,1,0.9411
+0_435.npy,0,non_dysarthric,WHEN HE SPEAK,95.7,1,0.9569
+0_48.npy,0,non_dysarthric,KI,96.7,0,0.9675
+1_1400.npy,1,dysarthric,HIT,97.9,0,0.9791
+1_1216.npy,1,dysarthric,LIP,99.4,0,0.9937
+1_1556.npy,1,dysarthric,RAL,96.4,2,0.9639
+0_462.npy,0,non_dysarthric,MERE,97.7,1,0.9771
+1_892.npy,1,dysarthric,BEING ABLE TO,97.8,0,0.9783
+1_601.npy,1,dysarthric,L,99.8,0,0.9978
+1_557.npy,1,dysarthric,[unclear],97.2,0,0.9723
+0_165.npy,0,non_dysarthric,SPIKE,98.2,0,0.9819
+0_494.npy,0,non_dysarthric,YOU DESTROY CONFIDENCE,95.1,1,0.9512
+1_1485.npy,1,dysarthric,IT LOOKED LIKE AN,98.8,0,0.9878
+1_959.npy,1,dysarthric,FORWARD,98.3,0,0.9833
+1_1269.npy,1,dysarthric,HALE,98.0,0,0.9801
+1_552.npy,1,dysarthric,[unclear],97.5,1,0.9747
+0_468.npy,0,non_dysarthric,BOTH FIGURES WITH,96.0,1,0.9597
+0_74.npy,0,non_dysarthric,[unclear],98.2,0,0.9817
+1_1148.npy,1,dysarthric,AMBEDEXTEROUS,97.1,1,0.9708
+1_742.npy,1,dysarthric,YES,99.9,0,0.9986
+1_1073.npy,1,dysarthric,LENDE,98.6,0,0.9859
+1_715.npy,1,dysarthric,THERE IS A TREE,99.0,0,0.9902
+0_33.npy,0,non_dysarthric,VEI,94.7,3,0.947
+1_1761.npy,1,dysarthric,THE QUICK R,98.5,1,0.9848
+1_1819.npy,1,dysarthric,FLOR,98.5,0,0.9848
+0_95.npy,0,non_dysarthric,LINK,99.5,0,0.9947
+1_977.npy,1,dysarthric,CAKE,98.4,0,0.9838
+0_115.npy,0,non_dysarthric,NEW,99.4,0,0.9942
+1_1118.npy,1,dysarthric,ELDERLY P,99.1,0,0.9907
+1_1776.npy,1,dysarthric,DARK,99.3,0,0.9928
+1_998.npy,1,dysarthric,READ,99.1,0,0.9909
+1_1602.npy,1,dysarthric,THE OLD M,99.0,0,0.9904
+1_1608.npy,1,dysarthric,UNFORTUNATELY,99.0,0,0.9901
+1_2038.npy,1,dysarthric,LEK,98.1,0,0.9806
+0_291.npy,0,non_dysarthric,COP,97.3,0,0.9729
+1_999.npy,1,dysarthric,COURT,99.2,0,0.9922
+1_1202.npy,1,dysarthric,TWO,98.8,0,0.9879
+0_438.npy,0,non_dysarthric,PIP,97.9,0,0.9785
+0_36.npy,0,non_dysarthric,LINK,98.6,0,0.9862
+0_111.npy,0,non_dysarthric,WELL HE,95.3,2,0.9529
+0_281.npy,0,non_dysarthric,THE TRAIN APPROACHED THE DEPOS,94.2,0,0.9422
+1_735.npy,1,dysarthric,FEED,99.3,0,0.9933
+1_1196.npy,1,dysarthric,T,99.4,0,0.9936
+1_1104.npy,1,dysarthric,SIX,99.4,0,0.9938
+1_650.npy,1,dysarthric,SWI,99.0,0,0.9897
+0_298.npy,0,non_dysarthric,SHE FINNERED AN I AM,91.0,1,0.9103
+1_990.npy,1,dysarthric,MUCH,99.2,0,0.992
+1_1756.npy,1,dysarthric,TORY,99.1,0,0.991
+1_1409.npy,1,dysarthric,WINE,99.0,0,0.9903
+1_1721.npy,1,dysarthric,REED,98.6,0,0.9859
+0_248.npy,0,non_dysarthric,CHAIR,98.6,0,0.9856
+1_1676.npy,1,dysarthric,RAGE,99.1,0,0.9906
+0_185.npy,0,non_dysarthric,BRAH,95.9,3,0.9594
+1_1797.npy,1,dysarthric,YOU GROW,98.6,0,0.9859
+1_1458.npy,1,dysarthric,COURT,99.0,0,0.9897
+0_87.npy,0,non_dysarthric,GUERMORE,94.6,3,0.9463
+0_482.npy,0,non_dysarthric,MOTHER SEWS YELLOW,97.5,0,0.9749
+1_1979.npy,1,dysarthric,KITTEN,99.2,0,0.9916
+1_1308.npy,1,dysarthric,AIR,99.1,0,0.9909
+1_680.npy,1,dysarthric,SWEET,98.9,0,0.9892
+1_1332.npy,1,dysarthric,LACKED,96.5,2,0.9655
+1_1612.npy,1,dysarthric,A LARGE HOUSEHO,99.1,0,0.9908
+1_652.npy,1,dysarthric,FIR,97.4,3,0.9741
+0_521.npy,0,non_dysarthric,EIGHT,98.8,0,0.9883
+1_1670.npy,1,dysarthric,LIP,99.4,0,0.9943
+0_80.npy,0,non_dysarthric,GO,99.8,0,0.9979
+0_480.npy,0,non_dysarthric,[unclear],100.0,0,0.9999
+1_1915.npy,1,dysarthric,PLAY,99.4,0,0.9943
+1_2070.npy,1,dysarthric,SHE WORE WARMPLEC,94.3,1,0.9428
+0_199.npy,0,non_dysarthric,RANK,96.5,1,0.9645
+0_404.npy,0,non_dysarthric,A WOMAN WATCHING THE DISHES,97.9,0,0.9788
+1_807.npy,1,dysarthric,SEVEN,99.8,0,0.9976
+1_579.npy,1,dysarthric,[unclear],98.2,0,0.9825
+1_1869.npy,1,dysarthric,STEER,97.7,0,0.9772
+1_1714.npy,1,dysarthric,PACK,99.4,0,0.9943
+1_1371.npy,1,dysarthric,DID YOU EAT,97.5,1,0.9753
+1_1809.npy,1,dysarthric,HORN,98.7,0,0.9871
+1_1671.npy,1,dysarthric,TOR,98.3,0,0.9828
+1_1163.npy,1,dysarthric,DOC,98.9,0,0.989
+1_820.npy,1,dysarthric,[unclear],67.5,0,0.6748
+1_1650.npy,1,dysarthric,GLOBE,99.6,0,0.9955
+1_670.npy,1,dysarthric,SLEIGH,99.3,0,0.9928
+1_1701.npy,1,dysarthric,[unclear],98.8,0,0.9881
+1_1411.npy,1,dysarthric,SHORE,97.8,0,0.9776
+0_388.npy,0,non_dysarthric,STORM,99.3,0,0.9933
+1_1496.npy,1,dysarthric,GOOD SERVICE,98.9,0,0.9894
+1_1774.npy,1,dysarthric,YEF,99.0,1,0.9897
+1_1061.npy,1,dysarthric,GAS,99.1,0,0.9914
+1_1638.npy,1,dysarthric,PAIN,99.1,0,0.9912
+1_722.npy,1,dysarthric,SIX,98.8,0,0.9881
+1_568.npy,1,dysarthric,TE,98.3,0,0.9828
+1_749.npy,1,dysarthric,THE JOB,98.9,0,0.9889
+1_1376.npy,1,dysarthric,THE LITTLE BOY AND GIR,98.6,0,0.9864
+1_629.npy,1,dysarthric,[unclear],99.9,0,0.9987
+0_449.npy,0,non_dysarthric,ONE,99.3,0,0.9933
+1_849.npy,1,dysarthric,FLICKER,98.2,1,0.9825
+1_2026.npy,1,dysarthric,THE FOUR THIRSDA,96.1,1,0.9613
+0_101.npy,0,non_dysarthric,YET HE GUILTY,94.8,0,0.948
+1_1646.npy,1,dysarthric,GROW,99.8,0,0.9976
+1_1977.npy,1,dysarthric,HIING,96.5,2,0.9654
+0_419.npy,0,non_dysarthric,NO,99.3,0,0.9927
+1_2068.npy,1,dysarthric,HIM,99.1,0,0.9914
+1_1490.npy,1,dysarthric,FOOL,98.9,0,0.9887
+0_307.npy,0,non_dysarthric,DOCK,99.2,1,0.9921
+1_1878.npy,1,dysarthric,JANE MAY EARN,97.7,0,0.9765
+1_1088.npy,1,dysarthric,WISE,98.8,0,0.9877
+1_1331.npy,1,dysarthric,DUG,99.2,0,0.9923
+1_823.npy,1,dysarthric,CELL,98.8,0,0.9882
+0_53.npy,0,non_dysarthric,MINK,98.5,0,0.9847
+1_1963.npy,1,dysarthric,BACK,99.9,0,0.9992
+1_1039.npy,1,dysarthric,THAT'S WHAT L,98.0,0,0.98
+0_514.npy,0,non_dysarthric,PAT,99.4,0,0.9941
+1_908.npy,1,dysarthric,HAND,98.0,0,0.9803
+1_1345.npy,1,dysarthric,TILE,97.4,0,0.9741
+1_1250.npy,1,dysarthric,BUNCH,98.2,0,0.9821
+1_1907.npy,1,dysarthric,NOTHING IS AS A,97.5,0,0.975
+0_153.npy,0,non_dysarthric,FORER,96.4,2,0.9643
+1_1058.npy,1,dysarthric,SO,99.8,0,0.9976
+0_223.npy,0,non_dysarthric,SWAR,97.8,0,0.9784
+1_1648.npy,1,dysarthric,DISPLAYED U,96.9,2,0.9689
+1_1329.npy,1,dysarthric,REAP,99.0,0,0.9899
+1_733.npy,1,dysarthric,BARN,99.7,0,0.9969
+1_917.npy,1,dysarthric,UNIFORM,98.9,0,0.9895
+1_631.npy,1,dysarthric,[unclear],94.8,0,0.9482
+1_1542.npy,1,dysarthric,SPAIN,99.4,0,0.9942
+1_747.npy,1,dysarthric,IT WAS A GOOD W,98.3,0,0.9826
+0_164.npy,0,non_dysarthric,WHEAT,98.8,0,0.9881
+0_163.npy,0,non_dysarthric,FAIR,99.5,0,0.9954
+1_1245.npy,1,dysarthric,RIP,99.0,0,0.99
+0_209.npy,0,non_dysarthric,BICK,97.9,1,0.9794
+1_1588.npy,1,dysarthric,BALL,98.1,0,0.9811
+1_1578.npy,1,dysarthric,BASH,99.0,0,0.9902
+0_320.npy,0,non_dysarthric,GLOA,97.5,1,0.9749
+1_1684.npy,1,dysarthric,LID,99.7,0,0.9974
+1_1141.npy,1,dysarthric,MEMBER,99.2,0,0.9921
+0_477.npy,0,non_dysarthric,POT,99.4,0,0.9943
+1_1954.npy,1,dysarthric,LOUP,99.1,0,0.9906
+1_1146.npy,1,dysarthric,SO IF AN,98.9,0,0.9885
+1_713.npy,1,dysarthric,THE BOOKS,98.1,0,0.9812
+0_68.npy,0,non_dysarthric,GAGGER,96.6,0,0.9656
+1_1823.npy,1,dysarthric,WARM,99.1,0,0.9907
+1_1938.npy,1,dysarthric,MUCH,99.6,0,0.996
+1_1580.npy,1,dysarthric,BAGPIPE SOME,96.9,1,0.9692
+1_945.npy,1,dysarthric,AUR RO,96.2,1,0.9615
+1_1275.npy,1,dysarthric,CASH,98.5,0,0.9853
+1_1634.npy,1,dysarthric,SIR,99.3,0,0.9935
+0_416.npy,0,non_dysarthric,RAIN,98.9,0,0.9891
+1_845.npy,1,dysarthric,AND,99.9,0,0.9994
+1_1765.npy,1,dysarthric,BELOW,98.5,0,0.985
+1_635.npy,1,dysarthric,[unclear],99.3,0,0.9926
+1_1833.npy,1,dysarthric,AREA,98.6,0,0.9863
+1_1718.npy,1,dysarthric,RAT,96.9,2,0.9688
+1_1392.npy,1,dysarthric,PAN,98.0,0,0.9801
+1_618.npy,1,dysarthric,USUALLY,99.0,0,0.99
+0_470.npy,0,non_dysarthric,SMUCH,96.7,1,0.9674
+0_412.npy,0,non_dysarthric,[unclear],95.4,0,0.9538
+0_210.npy,0,non_dysarthric,RACE,99.2,0,0.9922
+0_184.npy,0,non_dysarthric,YOU WISH TO KNOW,94.9,0,0.9489
+1_1767.npy,1,dysarthric,SHE HAD YOUR,97.6,0,0.9758
+0_3.npy,0,non_dysarthric,YOU PALA YOU P,94.6,2,0.9457
+1_927.npy,1,dysarthric,KNIFE,98.6,0,0.9858
+1_1996.npy,1,dysarthric,NOTHING HA,98.9,0,0.989
+1_983.npy,1,dysarthric,MEN KNEU,96.9,0,0.9691
+1_1733.npy,1,dysarthric,GRANDFATHER,98.5,0,0.985
+1_2055.npy,1,dysarthric,WHITTY,98.1,1,0.9807
+1_751.npy,1,dysarthric,HELL,98.8,0,0.9883
+1_1499.npy,1,dysarthric,SHE WAS REA,98.7,0,0.9871
+0_303.npy,0,non_dysarthric,REAR,99.2,0,0.9924
+0_179.npy,0,non_dysarthric,PARK,98.6,0,0.9857
+0_516.npy,0,non_dysarthric,EIGHT,98.0,0,0.9803
+1_1491.npy,1,dysarthric,ALL,99.6,0,0.9964
+1_1879.npy,1,dysarthric,EXPLORE,97.5,1,0.9748
+1_640.npy,1,dysarthric,TRAIT,98.6,0,0.9863
+1_1922.npy,1,dysarthric,SHIRT,99.1,0,0.9908
+1_1082.npy,1,dysarthric,THREAT,99.1,0,0.9908
+0_275.npy,0,non_dysarthric,I SCRUPT E FLORTH,92.3,2,0.9229
+1_768.npy,1,dysarthric,THIS IS A,98.1,0,0.9812
+1_1995.npy,1,dysarthric,HE AROUSED TI,96.3,3,0.9629
+0_423.npy,0,non_dysarthric,ALITTLE,97.5,0,0.9746
+1_1529.npy,1,dysarthric,PICH,97.6,1,0.9756
+1_1862.npy,1,dysarthric,FATE,99.3,0,0.993
+1_1242.npy,1,dysarthric,THE LEGISLAT,98.8,0,0.9884
+0_194.npy,0,non_dysarthric,DUDGET,97.6,0,0.9763
+1_1286.npy,1,dysarthric,WHAT,98.0,1,0.9797
+1_1431.npy,1,dysarthric,BOTH KARAS,97.1,0,0.9714
+1_1586.npy,1,dysarthric,[unclear],83.7,0,0.8367
+1_884.npy,1,dysarthric,THINK,99.0,0,0.9898
+1_1143.npy,1,dysarthric,SHE'S A DEATH,96.4,0,0.9644
+1_2012.npy,1,dysarthric,PABA,99.5,0,0.9947
+1_1418.npy,1,dysarthric,ACHE,98.2,0,0.9816
+1_818.npy,1,dysarthric,BRAC,96.6,2,0.9657
+0_486.npy,0,non_dysarthric,DEAR,99.7,0,0.9971
+1_865.npy,1,dysarthric,THE PAIR OF,96.8,0,0.9682
+0_188.npy,0,non_dysarthric,TRAIN,99.3,0,0.9928
+1_802.npy,1,dysarthric,THIGH,98.1,0,0.9807
+1_1892.npy,1,dysarthric,NO,98.2,0,0.9815
+1_1456.npy,1,dysarthric,PAD,99.2,0,0.9924
+1_1747.npy,1,dysarthric,WELL,99.0,0,0.9898
+1_2103.npy,1,dysarthric,KILO,98.5,0,0.9854
+1_1511.npy,1,dysarthric,ONLY TWO,99.0,0,0.9895
+1_561.npy,1,dysarthric,[unclear],98.6,1,0.9859
+0_94.npy,0,non_dysarthric,CLAY,97.5,1,0.9754
+0_532.npy,0,non_dysarthric,DE HEE CHILD HE DOESN'T,93.4,1,0.9335
+1_1440.npy,1,dysarthric,WHY,99.4,0,0.9942
+1_2048.npy,1,dysarthric,REEK,98.1,1,0.9807
+0_52.npy,0,non_dysarthric,FORM,99.6,0,0.9963
+1_1947.npy,1,dysarthric,THREE,99.0,0,0.9905
+0_260.npy,0,non_dysarthric,AH,98.7,0,0.9866
+1_782.npy,1,dysarthric,LIMA,99.4,0,0.9936
+1_1686.npy,1,dysarthric,BRAIN,99.4,0,0.9944
+1_2020.npy,1,dysarthric,A ROLL OF W,98.3,0,0.9827
+1_939.npy,1,dysarthric,VICTOR,98.7,0,0.9871
+0_533.npy,0,non_dysarthric,[unclear],99.2,0,0.9923
+0_523.npy,0,non_dysarthric,WORK,99.3,0,0.9931
+0_304.npy,0,non_dysarthric,FOK,97.4,1,0.9739
+1_685.npy,1,dysarthric,EIGHT,98.2,0,0.9822
+1_1064.npy,1,dysarthric,ESE,97.2,1,0.972
+1_1270.npy,1,dysarthric,MISTAKE,97.0,0,0.9704
+0_146.npy,0,non_dysarthric,ALPHA,98.2,0,0.9816
+1_1470.npy,1,dysarthric,POOR,97.7,0,0.9765
+1_1875.npy,1,dysarthric,SLAIGH,97.5,0,0.9753
+1_1056.npy,1,dysarthric,TRUSPASSE,97.9,1,0.9789
+1_806.npy,1,dysarthric,JULIETE,98.5,1,0.9853
+0_342.npy,0,non_dysarthric,SHAPES,97.5,0,0.9754
+0_6.npy,0,non_dysarthric,CAR,97.1,1,0.9713
+0_301.npy,0,non_dysarthric,ALL THE BIG BASEPOB,97.9,0,0.979
+1_1853.npy,1,dysarthric,TWO,98.4,0,0.9839
+0_513.npy,0,non_dysarthric,THREE,99.5,0,0.9946
+0_422.npy,0,non_dysarthric,PADA,97.1,1,0.9714
+1_1940.npy,1,dysarthric,THEIR HOUSES GREY AND,97.4,0,0.9741
+0_54.npy,0,non_dysarthric,GOVAS ME O CARR,92.8,2,0.9283
+0_270.npy,0,non_dysarthric,BACK,99.3,0,0.9931
+1_700.npy,1,dysarthric,EPAH IP,97.4,1,0.9742
+1_1518.npy,1,dysarthric,RAN,99.1,0,0.9913
+1_976.npy,1,dysarthric,WE SELECTED,98.8,0,0.988
+1_1830.npy,1,dysarthric,I TRIE TO TELL P,95.7,1,0.9569
+1_1220.npy,1,dysarthric,SHEET,99.2,0,0.9917
+1_683.npy,1,dysarthric,N,99.7,0,0.9974
+1_1017.npy,1,dysarthric,CRITICAL EQUI,98.3,0,0.9833
+1_664.npy,1,dysarthric,MOTHERS,98.9,0,0.9893
+1_1890.npy,1,dysarthric,KAIE,97.1,1,0.9714
+1_1544.npy,1,dysarthric,CORB,98.4,1,0.9842
+0_171.npy,0,non_dysarthric,[unclear],97.7,0,0.9771
+1_585.npy,1,dysarthric,GO,98.8,0,0.988
+1_1729.npy,1,dysarthric,STIXS,96.9,0,0.9688
+1_1452.npy,1,dysarthric,RO,96.5,1,0.965
+1_1207.npy,1,dysarthric,EIGHT,98.5,0,0.9854
+1_1277.npy,1,dysarthric,BUNCH,99.6,0,0.9965
+1_1615.npy,1,dysarthric,IMPRESS,98.7,0,0.9871
+1_2015.npy,1,dysarthric,STARK,99.2,0,0.9923
+1_1832.npy,1,dysarthric,SHEER,96.2,0,0.9623
+1_910.npy,1,dysarthric,ROC,99.2,0,0.992
+1_809.npy,1,dysarthric,MUCH,99.3,0,0.993
+0_222.npy,0,non_dysarthric,CIP,97.8,0,0.9779
+1_2006.npy,1,dysarthric,NEDDING,96.1,2,0.9608
+1_1240.npy,1,dysarthric,RISE,98.6,0,0.9855
+0_332.npy,0,non_dysarthric,AIR,98.6,0,0.9857
+1_2043.npy,1,dysarthric,HE FURTHER,98.5,0,0.9852
+0_530.npy,0,non_dysarthric,WERE,99.0,0,0.9898
+1_549.npy,1,dysarthric,WOO,99.5,0,0.9951
+0_317.npy,0,non_dysarthric,EXPLORE,98.3,0,0.9833
+1_1223.npy,1,dysarthric,LOCK,97.5,1,0.975
+0_93.npy,0,non_dysarthric,[unclear],94.6,0,0.9463
+1_2002.npy,1,dysarthric,DAY AFTER DAY,98.5,0,0.9854
+1_1864.npy,1,dysarthric,TILE,98.4,1,0.9844
+1_1391.npy,1,dysarthric,HAD,99.2,0,0.9917
+1_1278.npy,1,dysarthric,THE MAN,99.3,0,0.9934
+1_1924.npy,1,dysarthric,EIGHT,99.2,0,0.9917
+1_566.npy,1,dysarthric,[unclear],93.5,0,0.9355
+1_810.npy,1,dysarthric,BLOW,98.9,0,0.989
+1_993.npy,1,dysarthric,CORK,99.6,0,0.9956
+1_871.npy,1,dysarthric,SAID,99.6,0,0.9958
+1_1265.npy,1,dysarthric,ACES,96.5,1,0.9649
+1_1949.npy,1,dysarthric,POT,98.7,0,0.987
+1_1991.npy,1,dysarthric,TAKE,99.3,0,0.9927
+1_1868.npy,1,dysarthric,YOU'D BE,97.5,0,0.9748
+1_860.npy,1,dysarthric,HE REALLY CRUW,96.8,0,0.9684
+1_1030.npy,1,dysarthric,STRETCH,98.5,1,0.9852
+1_1641.npy,1,dysarthric,IT'S HARD TO,98.6,0,0.9861
+0_189.npy,0,non_dysarthric,HON,99.0,0,0.9896
+0_466.npy,0,non_dysarthric,YOU'D BE B,97.9,0,0.979
+1_794.npy,1,dysarthric,TIBEC,97.7,1,0.9771
+0_487.npy,0,non_dysarthric,DROOP,96.4,2,0.9645
+1_1594.npy,1,dysarthric,RATTLE,98.5,0,0.9848
+1_968.npy,1,dysarthric,SELECT,98.6,0,0.9861
+1_1004.npy,1,dysarthric,SNOR,97.8,1,0.9777
+1_1085.npy,1,dysarthric,LIP,99.4,0,0.9935
+1_1124.npy,1,dysarthric,NINE,99.2,0,0.9918
+1_1272.npy,1,dysarthric,AD,98.9,0,0.9895
+1_958.npy,1,dysarthric,DREAD,99.7,0,0.9971
+1_1632.npy,1,dysarthric,MUSQUE,97.2,0,0.9723
+1_850.npy,1,dysarthric,BREAD,98.3,0,0.983
+0_434.npy,0,non_dysarthric,SHARE,98.8,0,0.9876
+1_1316.npy,1,dysarthric,HE'LL SELEM BY,93.8,1,0.9383
+0_518.npy,0,non_dysarthric,LATE,99.4,0,0.9938
+0_344.npy,0,non_dysarthric,LEFT,98.9,0,0.9894
+1_1573.npy,1,dysarthric,CALL,99.8,0,0.9975
+1_2046.npy,1,dysarthric,TOP,98.7,0,0.9874
+1_1126.npy,1,dysarthric,PETE,98.6,0,0.9861
+1_979.npy,1,dysarthric,ONLY THE,97.9,0,0.9786
+0_144.npy,0,non_dysarthric,LO,98.2,0,0.9818
+1_792.npy,1,dysarthric,LEEK,99.0,1,0.9904
+0_467.npy,0,non_dysarthric,SWAY,98.7,0,0.987
+1_556.npy,1,dysarthric,HE,98.7,0,0.9874
+0_413.npy,0,non_dysarthric,FOR EIGHT,97.4,0,0.9745
+0_61.npy,0,non_dysarthric,SLOP,97.4,1,0.9744
+0_519.npy,0,non_dysarthric,TWO,99.0,0,0.9896
+1_1385.npy,1,dysarthric,TABLE CONFREMI,97.2,1,0.9719
+1_1233.npy,1,dysarthric,WEEKS,99.0,0,0.9905
+0_463.npy,0,non_dysarthric,SLEEP,98.5,0,0.9849
+1_831.npy,1,dysarthric,HARP,99.6,0,0.996
+1_1309.npy,1,dysarthric,PIT,99.1,0,0.9906
+0_426.npy,0,non_dysarthric,EXCEPT,98.4,0,0.9835
+1_946.npy,1,dysarthric,DEAD,99.2,0,0.9915
+0_215.npy,0,non_dysarthric,DOUBLE,99.3,0,0.9929
+0_9.npy,0,non_dysarthric,OH,98.6,0,0.986
+0_492.npy,0,non_dysarthric,TY,98.2,1,0.9822
+0_378.npy,0,non_dysarthric,AY,97.9,1,0.9791
+1_756.npy,1,dysarthric,PIT,98.9,0,0.9888
+1_1339.npy,1,dysarthric,IL,98.5,0,0.9846
+0_283.npy,0,non_dysarthric,THIS WAS EASY FOR US,98.1,0,0.9808
+0_272.npy,0,non_dysarthric,JAME MAY EARN MORE MONEY,96.4,0,0.9641
+0_288.npy,0,non_dysarthric,I FEEL I CAN PLAY THIS WEEK,96.0,1,0.9596
+0_396.npy,0,non_dysarthric,HE SLOTED HE SLOWLY,94.4,1,0.9438
+0_8.npy,0,non_dysarthric,PUT,98.0,2,0.9804
+1_1611.npy,1,dysarthric,BET,98.7,0,0.9866
+1_1372.npy,1,dysarthric,TOR,97.4,1,0.9735
+1_1407.npy,1,dysarthric,OR,98.3,0,0.9834
+1_841.npy,1,dysarthric,THE WAIT FOR WORK,97.7,0,0.9769
+1_1806.npy,1,dysarthric,JACKET,99.8,0,0.9978
+0_489.npy,0,non_dysarthric,BAD,99.8,0,0.9985
+0_306.npy,0,non_dysarthric,YOU'RE USE TO BEING ON THE,94.6,1,0.9456
+0_410.npy,0,non_dysarthric,PLOR,96.2,1,0.962
+1_797.npy,1,dysarthric,NOVEMBER,98.8,0,0.9882
+1_1189.npy,1,dysarthric,ROW,97.8,1,0.978
+1_1850.npy,1,dysarthric,FORWAR,99.0,0,0.9896
+1_1170.npy,1,dysarthric,FEET,99.5,0,0.9949
+1_1856.npy,1,dysarthric,ALL THE BIG,95.9,0,0.9591
+0_11.npy,0,non_dysarthric,WAIT,98.0,1,0.98
+1_573.npy,1,dysarthric,WEED,98.3,0,0.9827
+0_29.npy,0,non_dysarthric,THE QUICK BONE FOR,94.0,2,0.9396
+1_1213.npy,1,dysarthric,I HAD NO DES,98.7,0,0.9868
+1_970.npy,1,dysarthric,CATCH,99.2,0,0.9918
+1_895.npy,1,dysarthric,YES,99.5,0,0.9946
+1_1980.npy,1,dysarthric,THORN,99.3,0,0.9926
+1_1503.npy,1,dysarthric,SAMP,98.1,1,0.9809
+0_246.npy,0,non_dysarthric,YET HE STILL THINKS AS,95.7,1,0.9572
+1_1845.npy,1,dysarthric,PAD,99.7,0,0.9971
+1_718.npy,1,dysarthric,I EXP,99.1,0,0.9906
+1_1293.npy,1,dysarthric,MILE,99.4,0,0.9941
+1_539.npy,1,dysarthric,DUG,98.1,0,0.9811
+1_1598.npy,1,dysarthric,SHAWL,96.3,0,0.9628
+0_285.npy,0,non_dysarthric,SHIRT,98.2,0,0.9822
+1_2079.npy,1,dysarthric,SEED,98.0,0,0.9795
+0_220.npy,0,non_dysarthric,REEK,98.6,0,0.986
+0_376.npy,0,non_dysarthric,TWO,98.9,1,0.9891
+1_1468.npy,1,dysarthric,DOC,98.5,0,0.9852
+1_1839.npy,1,dysarthric,EIGHT,99.4,0,0.9944
+0_69.npy,0,non_dysarthric,SAYIT,96.8,1,0.9682
+1_1192.npy,1,dysarthric,ACE,98.2,0,0.9817
+1_642.npy,1,dysarthric,FLOR,99.4,0,0.9935
+1_2061.npy,1,dysarthric,GOTH,98.2,0,0.9819
+0_105.npy,0,non_dysarthric,GEGNUE,93.4,5,0.9336
+1_1185.npy,1,dysarthric,FIRO,96.9,1,0.9693
+1_588.npy,1,dysarthric,YOU WIH,97.7,2,0.9768
+1_1960.npy,1,dysarthric,SYCHO,97.6,0,0.9755
+1_1237.npy,1,dysarthric,RAKE,98.6,0,0.9858
+1_1983.npy,1,dysarthric,SPAIN,99.0,0,0.9904
+1_1785.npy,1,dysarthric,FAIR,99.2,0,0.992
+1_565.npy,1,dysarthric,[unclear],83.8,0,0.8385
+0_126.npy,0,non_dysarthric,SLOW,97.8,1,0.9779
+1_1661.npy,1,dysarthric,PRESERVE,98.6,0,0.9859
+1_2078.npy,1,dysarthric,LOAT,98.5,0,0.9849
+1_1343.npy,1,dysarthric,CAN,99.5,0,0.9945
+1_1360.npy,1,dysarthric,HANDLE IT ANY W,98.3,0,0.9827
+1_1024.npy,1,dysarthric,GIL,97.6,1,0.9757
+1_947.npy,1,dysarthric,LACK,97.2,1,0.9725
+1_1375.npy,1,dysarthric,WE GOT DRENCHED,98.1,0,0.9812
+1_636.npy,1,dysarthric,SHE,99.8,0,0.9975
+0_177.npy,0,non_dysarthric,BEDGE,96.7,2,0.967
+1_932.npy,1,dysarthric,BEG THAT G,98.7,0,0.9873
+1_1132.npy,1,dysarthric,SHE,97.3,0,0.9729
+0_195.npy,0,non_dysarthric,ONE,99.6,0,0.9962
+1_1158.npy,1,dysarthric,SIX,99.1,0,0.991
+1_1121.npy,1,dysarthric,KNIFE,99.1,0,0.9911
+1_2039.npy,1,dysarthric,LE JOB HER,95.7,0,0.9571
+1_1015.npy,1,dysarthric,[unclear],99.3,0,0.9934
+1_1769.npy,1,dysarthric,THWARM,98.7,0,0.9871
+1_1771.npy,1,dysarthric,TRAIT,98.8,0,0.9879
+0_88.npy,0,non_dysarthric,DANGER,94.9,2,0.949
+1_1466.npy,1,dysarthric,WIVES,98.2,0,0.9821
+1_1758.npy,1,dysarthric,BUT HE ALWAYS,98.8,0,0.9882
+1_1182.npy,1,dysarthric,HER POSITION,98.7,0,0.9873
+0_287.npy,0,non_dysarthric,WHICH,98.8,0,0.9875
+1_1562.npy,1,dysarthric,SADDLE,99.6,0,0.9965
+1_564.npy,1,dysarthric,[unclear],67.1,0,0.6711
+1_2034.npy,1,dysarthric,SPLIT,98.4,0,0.9837
+1_1808.npy,1,dysarthric,LEAD,99.3,0,0.9933
+1_719.npy,1,dysarthric,TOL,97.3,2,0.9733
+1_1144.npy,1,dysarthric,ZERO,99.1,0,0.9913
+1_1784.npy,1,dysarthric,BATER,98.3,0,0.9832
+1_1948.npy,1,dysarthric,POT POT,98.6,0,0.9857
+1_1566.npy,1,dysarthric,SABLE,99.1,0,0.9914
+1_1112.npy,1,dysarthric,HASH,98.5,0,0.9852
+1_1147.npy,1,dysarthric,BEEF,98.3,2,0.9827
+0_143.npy,0,non_dysarthric,WELL HE'S NEARLY NINETY,94.0,1,0.9403
+1_822.npy,1,dysarthric,ZERO,99.2,0,0.9917
+1_1889.npy,1,dysarthric,TIH,96.8,2,0.968
+0_401.npy,0,non_dysarthric,READ,98.7,0,0.9873
+1_1775.npy,1,dysarthric,[unclear],93.9,0,0.9394
+1_1984.npy,1,dysarthric,STUDENTS WATCH,98.6,1,0.9859
+1_688.npy,1,dysarthric,URGE,99.1,0,0.9914
+0_182.npy,0,non_dysarthric,GE RAY,97.1,0,0.9713
+1_686.npy,1,dysarthric,SI,98.2,0,0.9817
+0_21.npy,0,non_dysarthric,YOU WITH PEONLE,91.7,2,0.9173
+1_948.npy,1,dysarthric,WISKEY,97.3,0,0.9728
+1_1211.npy,1,dysarthric,BEF,97.6,0,0.9763
+0_147.npy,0,non_dysarthric,SWAN,99.4,0,0.9941
+1_1536.npy,1,dysarthric,FUNNEL,98.6,0,0.9862
+1_1167.npy,1,dysarthric,THE SUN DI,98.7,0,0.9875
+1_1753.npy,1,dysarthric,WON,97.5,1,0.9747
+1_1161.npy,1,dysarthric,WE HAVE A BIG,98.4,0,0.9843
+1_834.npy,1,dysarthric,TICKER,98.4,0,0.9837
+1_1435.npy,1,dysarthric,THE STAFF DIS,96.5,1,0.9646
+0_99.npy,0,non_dysarthric,MUG,99.3,0,0.9929
+0_251.npy,0,non_dysarthric,MOT,97.1,1,0.9709
+1_1402.npy,1,dysarthric,COLD,94.9,1,0.9494
+0_524.npy,0,non_dysarthric,NO,99.1,0,0.991
+1_1224.npy,1,dysarthric,SEE,97.3,2,0.973
+1_1786.npy,1,dysarthric,SHIP,97.7,1,0.9774
+1_953.npy,1,dysarthric,CHEER,98.2,0,0.9816
+1_1950.npy,1,dysarthric,PILE,99.2,0,0.9922
+1_847.npy,1,dysarthric,NEST,98.9,0,0.9886
+1_614.npy,1,dysarthric,I LO,93.3,3,0.9325
+1_1637.npy,1,dysarthric,WE HAD A PICNIC,98.6,0,0.9865
+0_452.npy,0,non_dysarthric,SWOR,96.3,1,0.9635
+1_1639.npy,1,dysarthric,SUBTRACT,99.5,0,0.9949
+1_764.npy,1,dysarthric,LEEK,98.7,0,0.9867
+0_356.npy,0,non_dysarthric,GO,98.6,0,0.9863
+1_1876.npy,1,dysarthric,THIGH,97.2,0,0.9719
+1_697.npy,1,dysarthric,CHUNG,98.6,0,0.9855
+1_1176.npy,1,dysarthric,SUNDER,99.0,0,0.9896
+0_78.npy,0,non_dysarthric,FAIR,97.8,0,0.9783
+1_1457.npy,1,dysarthric,CONTINENT,99.2,0,0.9924
+1_1994.npy,1,dysarthric,HE WRAPPED THE PACKAGE,96.6,0,0.9657
+1_1283.npy,1,dysarthric,FRANCE,99.2,0,0.992
+1_1898.npy,1,dysarthric,LIP,99.2,0,0.9921
+1_2024.npy,1,dysarthric,CHOP,99.3,0,0.9932
+0_385.npy,0,non_dysarthric,[unclear],100.0,0,0.9996
+0_135.npy,0,non_dysarthric,PUBLICA PATIGA,90.6,3,0.9057
+1_559.npy,1,dysarthric,WID HEM,94.1,4,0.9412
+1_724.npy,1,dysarthric,THIS IS NOT,98.7,0,0.9868
+1_646.npy,1,dysarthric,[unclear],98.2,0,0.9824
+1_1957.npy,1,dysarthric,WITCH,97.5,0,0.975
+1_1401.npy,1,dysarthric,EYES,99.2,0,0.9915
+0_19.npy,0,non_dysarthric,RUUIT,94.5,3,0.9448
+1_896.npy,1,dysarthric,REST,99.5,0,0.9951
+0_261.npy,0,non_dysarthric,NO,98.5,0,0.9851
+0_125.npy,0,non_dysarthric,S,95.5,3,0.9548
+1_1070.npy,1,dysarthric,BILL,98.0,0,0.9803
+0_415.npy,0,non_dysarthric,TROUBLE,97.6,0,0.9757
+1_772.npy,1,dysarthric,HIM,99.1,0,0.9914
+1_731.npy,1,dysarthric,[unclear],95.1,0,0.9507
+1_981.npy,1,dysarthric,IN,99.3,0,0.993
+0_233.npy,0,non_dysarthric,TA,95.8,2,0.9583
+1_817.npy,1,dysarthric,COP,99.0,0,0.9899
+1_1008.npy,1,dysarthric,WHO KNOWS WHAT,99.1,0,0.9912
+1_1538.npy,1,dysarthric,THAT'S THE NAME OF THE,97.9,0,0.9787
+1_786.npy,1,dysarthric,THE DOLPHI,97.9,0,0.9791
+0_305.npy,0,non_dysarthric,WHY YOWLWORY,87.9,4,0.8795
+0_26.npy,0,non_dysarthric,HE ALWAYS AND,94.4,0,0.9439
+1_1531.npy,1,dysarthric,CALLED,97.0,0,0.9697
+1_1965.npy,1,dysarthric,ESCRUBBED THE FLO,96.5,0,0.9654
+1_1975.npy,1,dysarthric,FAT,99.5,0,0.9948
+0_354.npy,0,non_dysarthric,RAGE,98.8,0,0.9879
+0_483.npy,0,non_dysarthric,[unclear],99.9,0,0.9995
+0_360.npy,0,non_dysarthric,HE DRESSED HIMSELF IN,97.2,1,0.9717
+0_351.npy,0,non_dysarthric,CHARE,98.3,0,0.983
+1_1108.npy,1,dysarthric,ASH,99.1,0,0.9913
+0_357.npy,0,non_dysarthric,BIT,98.1,1,0.9811
+0_145.npy,0,non_dysarthric,SE,93.9,2,0.9394
+1_1133.npy,1,dysarthric,I LOVED EVERY MI,97.2,0,0.9718
+1_1966.npy,1,dysarthric,PARK,99.9,0,0.9995
+1_1258.npy,1,dysarthric,RANGE WAS A VI,98.1,0,0.9807
+1_864.npy,1,dysarthric,X RAY,98.8,0,0.9883
+1_757.npy,1,dysarthric,ET GO,97.5,0,0.9748
+1_901.npy,1,dysarthric,ROC,99.1,0,0.991
+1_678.npy,1,dysarthric,[unclear],89.8,0,0.8982
+1_1454.npy,1,dysarthric,SAIL,98.6,0,0.9858
+1_2013.npy,1,dysarthric,FAT,99.6,0,0.9957
+0_213.npy,0,non_dysarthric,SUR,96.7,1,0.9671
+1_1623.npy,1,dysarthric,FUDGE,98.5,0,0.9849
+1_1465.npy,1,dysarthric,HAUL,98.5,0,0.9853
+1_852.npy,1,dysarthric,YOU WANT HIM,97.8,0,0.9782
+1_1537.npy,1,dysarthric,TAMP,99.4,0,0.9938
+1_1318.npy,1,dysarthric,THE PLOT IS LAI,98.5,0,0.9853
+0_409.npy,0,non_dysarthric,RAIN,99.2,0,0.9924
+0_175.npy,0,non_dysarthric,SHEEP,97.6,1,0.9756
+1_1096.npy,1,dysarthric,I HAVEN'T SEEN THA,98.0,1,0.9798
+1_1900.npy,1,dysarthric,[unclear],94.7,0,0.9467
+1_589.npy,1,dysarthric,STA,99.3,0,0.9934
+1_1068.npy,1,dysarthric,REEPE,97.4,1,0.974
+1_1851.npy,1,dysarthric,SHE IS THINNER THAN I,97.2,0,0.9723
+0_79.npy,0,non_dysarthric,A,95.7,1,0.9575
+1_665.npy,1,dysarthric,[unclear],86.7,0,0.8672
+1_1636.npy,1,dysarthric,INTACT,98.0,0,0.9798
+1_1759.npy,1,dysarthric,CORN,98.7,0,0.9873
+1_1673.npy,1,dysarthric,REFER,98.9,0,0.9887
+1_657.npy,1,dysarthric,[unclear],99.6,0,0.9964
+0_183.npy,0,non_dysarthric,FREE,98.6,0,0.9857
+1_1173.npy,1,dysarthric,BRIEF,98.3,0,0.9833
+0_116.npy,0,non_dysarthric,RAN,96.6,1,0.9662
+0_200.npy,0,non_dysarthric,GO,98.0,0,0.9801
+1_1396.npy,1,dysarthric,SPRING STRE,98.1,0,0.9813
+1_1516.npy,1,dysarthric,BAN,99.1,0,0.9905
+1_1327.npy,1,dysarthric,THERE WAS NO,98.2,0,0.9816
+1_1105.npy,1,dysarthric,BASKETBAL,98.2,1,0.9823
+1_1827.npy,1,dysarthric,FLORA,97.7,1,0.9771
+0_278.npy,0,non_dysarthric,TROP,97.0,0,0.9702
+0_374.npy,0,non_dysarthric,GRO,97.9,0,0.9786
+1_1788.npy,1,dysarthric,BREAK,98.8,0,0.9881
+1_1835.npy,1,dysarthric,DROOP,99.2,0,0.9924
+1_1200.npy,1,dysarthric,FEET,99.5,0,0.9948
+0_267.npy,0,non_dysarthric,SELF,97.1,1,0.9714
+0_515.npy,0,non_dysarthric,BRIGHT SUNSHINE SHIM,95.3,0,0.9535
+1_1805.npy,1,dysarthric,FEE,98.1,0,0.9811
+1_1174.npy,1,dysarthric,FEAR,98.9,0,0.9892
+1_1664.npy,1,dysarthric,THIS RAILROA,98.0,0,0.9798
+1_590.npy,1,dysarthric,WOR,96.5,3,0.9648
+1_1317.npy,1,dysarthric,HARM,99.3,0,0.9931
+0_469.npy,0,non_dysarthric,CHARLE,98.1,0,0.9812
+0_481.npy,0,non_dysarthric,WRITE,97.6,1,0.9763
+1_783.npy,1,dysarthric,CARL,98.4,0,0.9843
+0_459.npy,0,non_dysarthric,FOND,98.8,0,0.9883
+0_224.npy,0,non_dysarthric,ON,98.2,0,0.9822
+1_1251.npy,1,dysarthric,PIN,99.4,0,0.9939
+0_225.npy,0,non_dysarthric,THO,96.4,1,0.9643
+1_542.npy,1,dysarthric,SPAR,98.3,0,0.9826
+1_1813.npy,1,dysarthric,YET HE IS T,95.8,0,0.9576
+1_555.npy,1,dysarthric,[unclear],95.3,0,0.9526
+0_160.npy,0,non_dysarthric,[unclear],96.7,2,0.9666
+0_150.npy,0,non_dysarthric,[unclear],97.1,0,0.9708
+1_535.npy,1,dysarthric,[unclear],85.1,0,0.8511
+1_1768.npy,1,dysarthric,AIR,99.6,0,0.9961
+0_297.npy,0,non_dysarthric,BOAT,98.3,1,0.9828
+1_1541.npy,1,dysarthric,REACH,98.8,0,0.9876
+1_1843.npy,1,dysarthric,AWARE,97.6,0,0.9758
+1_870.npy,1,dysarthric,FORK,98.9,0,0.9885
+1_1137.npy,1,dysarthric,I DON'T THINK IT'S,96.6,1,0.966
+0_509.npy,0,non_dysarthric,YEAR,93.7,0,0.9368
+1_1447.npy,1,dysarthric,WASTE,98.9,0,0.9886
+1_1022.npy,1,dysarthric,[unclear],98.2,1,0.9816
+1_1916.npy,1,dysarthric,NOT,99.9,0,0.9985
+1_1970.npy,1,dysarthric,ALFALFA IS HEALTHY,97.2,0,0.9721
+0_349.npy,0,non_dysarthric,DOUBLE,99.2,0,0.9923
+0_136.npy,0,non_dysarthric,BADA,98.5,0,0.9848
+1_1469.npy,1,dysarthric,HALE,98.2,0,0.9817
+1_1164.npy,1,dysarthric,KNIFE,97.8,0,0.978
+1_1208.npy,1,dysarthric,MEEK,98.2,0,0.9824
+0_255.npy,0,non_dysarthric,FRIEE,94.2,1,0.9424
+1_1320.npy,1,dysarthric,WE SHALL,99.7,0,0.9965
+0_441.npy,0,non_dysarthric,CARE,98.8,0,0.9884
+1_1011.npy,1,dysarthric,THE FOUR,96.9,0,0.969
+0_103.npy,0,non_dysarthric,YES HE GO,95.6,0,0.9563
+1_1451.npy,1,dysarthric,HE NOTED THE FA,98.2,0,0.9822
+0_45.npy,0,non_dysarthric,KEUW,96.6,2,0.9661
+1_710.npy,1,dysarthric,CART,99.1,0,0.9912
+0_485.npy,0,non_dysarthric,WHERE WERE YOU WHILE,97.1,0,0.9712
+0_186.npy,0,non_dysarthric,GRANDFATHER LIKES TORIMA,95.8,1,0.958
+1_1880.npy,1,dysarthric,TEER,98.7,0,0.987
+1_1095.npy,1,dysarthric,CAKE,99.8,0,0.9976
+1_835.npy,1,dysarthric,THE OWNER,98.9,0,0.9895
+1_1348.npy,1,dysarthric,HALL,98.1,1,0.9809
+1_2008.npy,1,dysarthric,HARK,98.7,0,0.9867
+1_1378.npy,1,dysarthric,WHEN,99.5,0,0.9948
+0_453.npy,0,non_dysarthric,FATE,98.6,0,0.9859
+1_1094.npy,1,dysarthric,SMAKE,98.9,0,0.9885
+1_563.npy,1,dysarthric,DI,97.8,1,0.9782
+1_1524.npy,1,dysarthric,STALL,98.5,0,0.9846
+0_139.npy,0,non_dysarthric,TRACE,98.8,0,0.9875
+1_1873.npy,1,dysarthric,SELECT,99.0,0,0.99
+1_1313.npy,1,dysarthric,LOOK FOR POCKET,97.9,0,0.9785
+1_1778.npy,1,dysarthric,THOR,97.0,0,0.9699
+0_130.npy,0,non_dysarthric,CRAN,97.1,2,0.9709
+1_1314.npy,1,dysarthric,FELL,98.9,0,0.9891
+1_2000.npy,1,dysarthric,EIGHT,99.6,0,0.9956
+0_457.npy,0,non_dysarthric,DAGGER,99.1,0,0.9905
+1_586.npy,1,dysarthric,S,99.2,0,0.9917
+1_859.npy,1,dysarthric,[unclear],89.0,0,0.8897
+1_1093.npy,1,dysarthric,NIGHT,98.9,0,0.9886
+0_137.npy,0,non_dysarthric,SCAPLE,97.6,1,0.9763
+0_335.npy,0,non_dysarthric,FAT,96.9,1,0.9694
+1_1003.npy,1,dysarthric,SHIP,97.8,0,0.9779
+1_1091.npy,1,dysarthric,BAND,98.9,0,0.9891
+0_331.npy,0,non_dysarthric,SEARCH,99.2,0,0.9922
+1_832.npy,1,dysarthric,PART,98.7,0,0.987
+1_1247.npy,1,dysarthric,PEAS,97.8,1,0.9776
+0_427.npy,0,non_dysarthric,EXCEPT IN HE WINTER,96.2,2,0.9617
+0_479.npy,0,non_dysarthric,SLIP,99.2,0,0.9923
+0_57.npy,0,non_dysarthric,MER,98.8,0,0.9878
+1_1062.npy,1,dysarthric,DUG,99.0,0,0.9905
+1_1971.npy,1,dysarthric,PHIL,98.1,0,0.9807
+1_1801.npy,1,dysarthric,LAFT,97.2,0,0.9719
+1_627.npy,1,dysarthric,A,98.4,1,0.9837
+1_844.npy,1,dysarthric,BED,99.7,0,0.9967
+1_1519.npy,1,dysarthric,I SAW HIM A FEW,98.0,0,0.9799
+1_2060.npy,1,dysarthric,SIGHING,98.6,0,0.9864
+1_1217.npy,1,dysarthric,WAX,99.1,0,0.9909
+0_107.npy,0,non_dysarthric,WARM,99.7,0,0.997
+1_1069.npy,1,dysarthric,RIGHT,97.2,0,0.9721
+0_245.npy,0,non_dysarthric,THERE,98.8,0,0.9878
+0_62.npy,0,non_dysarthric,POM,97.0,2,0.9698
+0_63.npy,0,non_dysarthric,WAY,99.1,0,0.9907
+1_1919.npy,1,dysarthric,SLIP,99.4,0,0.9941
+0_122.npy,0,non_dysarthric,LOR,97.7,0,0.9767
+1_2057.npy,1,dysarthric,FOX TROT,98.5,0,0.9845
+0_526.npy,0,non_dysarthric,WHY YELL OR WORR,95.2,0,0.9518
+1_1044.npy,1,dysarthric,YES,99.1,0,0.9908
+0_259.npy,0,non_dysarthric,SLECT,97.8,1,0.9784
+0_448.npy,0,non_dysarthric,SLEPT,99.2,0,0.9915
+1_837.npy,1,dysarthric,REZULU,96.5,1,0.9655
+1_900.npy,1,dysarthric,THOSE MUSICIANS,98.6,0,0.986
+1_1866.npy,1,dysarthric,HATE,99.6,0,0.9963
+1_1405.npy,1,dysarthric,WEAVE,99.4,0,0.9941
+1_1481.npy,1,dysarthric,SHE MAKES OTHE,98.1,0,0.9812
+1_1706.npy,1,dysarthric,TRAIN,99.2,0,0.9919
+1_1005.npy,1,dysarthric,PORK,98.8,0,0.988
+1_873.npy,1,dysarthric,SEP,98.1,0,0.9808
+0_440.npy,0,non_dysarthric,CARE,98.4,0,0.9836
+1_1020.npy,1,dysarthric,SHOP,99.2,0,0.9917
+1_1416.npy,1,dysarthric,FORM,99.1,0,0.9909
+1_811.npy,1,dysarthric,OSCAR,98.3,0,0.9832
+1_790.npy,1,dysarthric,MITTEN,99.7,0,0.9965
+1_1501.npy,1,dysarthric,SAN,98.0,1,0.9797
+1_1789.npy,1,dysarthric,RAVE,98.7,0,0.9867
+1_671.npy,1,dysarthric,[unclear],97.4,1,0.9741
+1_995.npy,1,dysarthric,WEEP,99.5,0,0.9946
+1_1838.npy,1,dysarthric,IF YE DISTR,97.9,0,0.9786
+1_630.npy,1,dysarthric,[unclear],98.4,0,0.9841
+1_608.npy,1,dysarthric,[unclear],97.2,0,0.9722
+1_1738.npy,1,dysarthric,SHARE,99.3,0,0.9926
+0_173.npy,0,non_dysarthric,LEAD,98.4,0,0.9836
+1_2098.npy,1,dysarthric,PERDE,94.9,2,0.9492
+1_1092.npy,1,dysarthric,MUNK,98.2,0,0.9824
+0_277.npy,0,non_dysarthric,FAN,97.4,1,0.9738
+1_1210.npy,1,dysarthric,MOM STRONGL,95.2,2,0.9522
+1_1130.npy,1,dysarthric,I WAS PLEASED,98.4,1,0.9836
+0_257.npy,0,non_dysarthric,DUG,99.5,0,0.9952
+1_1657.npy,1,dysarthric,[unclear],97.9,0,0.9787
+1_761.npy,1,dysarthric,FA,97.0,1,0.9702
+1_1107.npy,1,dysarthric,COT,97.9,0,0.9786
+1_1551.npy,1,dysarthric,GABEL,99.3,0,0.9931
+1_727.npy,1,dysarthric,BET,98.8,0,0.9882
+1_1000.npy,1,dysarthric,SHOT,98.3,0,0.9833
+0_241.npy,0,non_dysarthric,UP,96.1,0,0.9605
+1_1434.npy,1,dysarthric,KATE,99.2,0,0.9915
+1_980.npy,1,dysarthric,SHORT,98.6,0,0.9856
+1_551.npy,1,dysarthric,[unclear],94.2,0,0.9422
+1_1384.npy,1,dysarthric,LO,99.0,0,0.9904
+0_319.npy,0,non_dysarthric,ONE FELLE THE THE AXT SO,90.5,3,0.9053
+1_1920.npy,1,dysarthric,URGINE,98.4,0,0.9841
+1_936.npy,1,dysarthric,YANKEE,99.0,0,0.9898
+0_83.npy,0,non_dysarthric,GO,99.7,0,0.997
+1_598.npy,1,dysarthric,[unclear],98.9,0,0.9892
+0_506.npy,0,non_dysarthric,THREET,98.6,0,0.986
+0_149.npy,0,non_dysarthric,RATE,97.4,0,0.9743
+0_528.npy,0,non_dysarthric,NOT,99.4,0,0.9945
+1_1974.npy,1,dysarthric,HE DARK,99.1,0,0.9912
+1_1027.npy,1,dysarthric,THE RESULT,98.9,0,0.9885
+1_1739.npy,1,dysarthric,RACE,99.6,0,0.9956
+0_355.npy,0,non_dysarthric,TRACE,97.9,0,0.9792
+1_1690.npy,1,dysarthric,SLED,99.7,0,0.9971
+1_574.npy,1,dysarthric,[unclear],63.0,0,0.6304
+0_37.npy,0,non_dysarthric,HERE,98.1,0,0.981
+1_1526.npy,1,dysarthric,I GOT INTO,98.3,1,0.9834
+1_1364.npy,1,dysarthric,HAND,97.8,0,0.9777
+0_309.npy,0,non_dysarthric,TILE,98.0,0,0.98
+1_1926.npy,1,dysarthric,MICMIR,94.8,0,0.9481
+1_540.npy,1,dysarthric,DARK,99.4,0,0.9937
+1_762.npy,1,dysarthric,NINE,99.2,0,0.9919
+1_791.npy,1,dysarthric,BEFORE THURSDAY,97.4,0,0.9739
+0_271.npy,0,non_dysarthric,STIR,98.3,0,0.9833
+1_1380.npy,1,dysarthric,ROE,97.8,1,0.9779
+1_1854.npy,1,dysarthric,NO,99.4,0,0.9939
+1_1773.npy,1,dysarthric,STORM,99.6,0,0.9962
+1_918.npy,1,dysarthric,HIM,99.4,0,0.9944
+1_1675.npy,1,dysarthric,GLIB,99.1,0,0.9913
+1_1016.npy,1,dysarthric,SO,99.4,0,0.9943
+1_903.npy,1,dysarthric,DOWN,98.7,0,0.9872
+0_431.npy,0,non_dysarthric,SHIP,99.3,0,0.9928
+1_1263.npy,1,dysarthric,THE STRUCTURE,98.1,0,0.9812
+1_1596.npy,1,dysarthric,BON,97.8,2,0.9779
+1_988.npy,1,dysarthric,BELL,99.4,0,0.9944
+1_1589.npy,1,dysarthric,CLIFFS DISPLA,97.0,0,0.9704
+1_1169.npy,1,dysarthric,CHEER,99.1,0,0.9913
+1_1222.npy,1,dysarthric,AID,99.1,0,0.9907
+1_1012.npy,1,dysarthric,SIDE,98.9,1,0.9895
+0_258.npy,0,non_dysarthric,STORE,99.4,0,0.9942
+1_1497.npy,1,dysarthric,PAKE,98.7,0,0.9871
+0_51.npy,0,non_dysarthric,MURK,97.7,1,0.9774
+0_382.npy,0,non_dysarthric,GLOW,97.3,1,0.9734
+1_1871.npy,1,dysarthric,GALORE,98.8,0,0.9883
+1_1419.npy,1,dysarthric,DASH,99.8,0,0.9976
+1_1860.npy,1,dysarthric,BIRTH DA,96.0,2,0.9597
+0_65.npy,0,non_dysarthric,RE,95.8,1,0.958
+0_296.npy,0,non_dysarthric,YES,99.7,0,0.9966
+1_2047.npy,1,dysarthric,SELL,98.0,1,0.9804
+1_1520.npy,1,dysarthric,IT'S ILLEGAL,98.7,0,0.9874
+1_1115.npy,1,dysarthric,REEP,98.3,1,0.9834
+1_1040.npy,1,dysarthric,BREAK,97.6,0,0.9763
+1_1243.npy,1,dysarthric,THE LEGISLA,99.3,0,0.9933
+1_1273.npy,1,dysarthric,HAD,99.5,0,0.9949
+1_1234.npy,1,dysarthric,THE YOUNG,98.1,0,0.9815
+0_348.npy,0,non_dysarthric,TRAIT,98.1,1,0.9812
+1_777.npy,1,dysarthric,SHY,98.6,0,0.9859
+1_774.npy,1,dysarthric,SWING YOUR ARM,98.2,1,0.9822
+1_1896.npy,1,dysarthric,YOU ARE USED TO,95.9,0,0.9588
+1_1870.npy,1,dysarthric,CHARLEY,99.2,0,0.9925
+1_1914.npy,1,dysarthric,UDALTA,98.8,0,0.9879
+0_56.npy,0,non_dysarthric,RACE,98.6,0,0.9859
+1_1035.npy,1,dysarthric,BEAT,98.7,0,0.9866
+0_249.npy,0,non_dysarthric,[unclear],98.0,0,0.9804
+0_327.npy,0,non_dysarthric,THEY CARRY ME OFF ON DISTR,96.4,0,0.9636
+1_1932.npy,1,dysarthric,HE WILL ALLOW A RAL,97.2,0,0.9722
+1_1528.npy,1,dysarthric,SPRAY,98.5,0,0.9851
+1_2092.npy,1,dysarthric,OSCAR,99.2,0,0.9915
+0_168.npy,0,non_dysarthric,A LONG FLOWING,97.8,0,0.9779
+1_1236.npy,1,dysarthric,IS,99.0,0,0.9897
+1_1228.npy,1,dysarthric,THE L,99.0,0,0.9903
+1_667.npy,1,dysarthric,HE WE,99.2,0,0.9923
+1_609.npy,1,dysarthric,[unclear],99.2,0,0.992
+1_562.npy,1,dysarthric,SHO,97.1,1,0.9714
+1_975.npy,1,dysarthric,MAIT,97.8,1,0.9782
+1_1547.npy,1,dysarthric,PASTE,98.2,0,0.9818
+1_855.npy,1,dysarthric,TEN,97.3,0,0.9734
+1_1442.npy,1,dysarthric,LUKE,98.0,0,0.9803
+1_1066.npy,1,dysarthric,BELL,99.3,0,0.9933
+1_626.npy,1,dysarthric,JUD,99.5,0,0.9953
+1_755.npy,1,dysarthric,HAT,99.5,0,0.995
+1_2042.npy,1,dysarthric,[unclear],92.2,3,0.9217
+0_339.npy,0,non_dysarthric,APIAPI,94.3,1,0.9432
+1_1482.npy,1,dysarthric,PAGE,99.6,0,0.9963
+1_1929.npy,1,dysarthric,WHERE THE VALID,96.9,0,0.9691
+1_949.npy,1,dysarthric,RIGT,96.7,0,0.9672
+1_985.npy,1,dysarthric,GO,98.9,0,0.9893
+0_299.npy,0,non_dysarthric,THEIR HOUSES GRAY AND WHITE,96.6,0,0.9657
+0_493.npy,0,non_dysarthric,FINGLE,99.5,0,0.995
+1_924.npy,1,dysarthric,[unclear],94.1,0,0.9412
+1_1436.npy,1,dysarthric,HEAD,99.5,0,0.9955
+1_1727.npy,1,dysarthric,STORM,99.3,0,0.993
+1_1292.npy,1,dysarthric,BE PREPARED,99.4,0,0.9943
+1_1479.npy,1,dysarthric,THAT,99.3,0,0.993
+1_2071.npy,1,dysarthric,IT ALSO PROVI,98.9,0,0.9893
+0_323.npy,0,non_dysarthric,RERE,96.2,1,0.9622
+1_2027.npy,1,dysarthric,LEAKE,97.9,0,0.9792
+1_673.npy,1,dysarthric,NOTHING,99.3,0,0.9926
+1_909.npy,1,dysarthric,WE BOUGHT A V,97.6,1,0.976
+0_39.npy,0,non_dysarthric,RAPE,96.4,1,0.9637
+1_1550.npy,1,dysarthric,FINE,98.7,0,0.9872
+0_4.npy,0,non_dysarthric,[unclear],100.0,0,0.9999
+1_2035.npy,1,dysarthric,SPIT,99.5,0,0.9946
+1_1886.npy,1,dysarthric,NO,97.9,0,0.9787
+1_1459.npy,1,dysarthric,IT WAS A,98.5,0,0.9853
+1_2040.npy,1,dysarthric,THE MUSEUM,99.1,0,0.9909
+1_824.npy,1,dysarthric,STUDENTS WATCH,98.1,0,0.9807
+1_1291.npy,1,dysarthric,HE HAS PLAYED,97.8,0,0.9782
+1_1467.npy,1,dysarthric,HE CAN'T ABIDE,98.0,0,0.9799
+0_461.npy,0,non_dysarthric,AT,97.1,1,0.971
+1_1099.npy,1,dysarthric,EIGHT,96.4,0,0.9642
+0_106.npy,0,non_dysarthric,A,96.2,1,0.9625
+0_152.npy,0,non_dysarthric,TREAD,99.3,0,0.9927
+1_1616.npy,1,dysarthric,OCCUR,98.0,0,0.9804
+1_1857.npy,1,dysarthric,THROUG,96.8,1,0.9677
+1_546.npy,1,dysarthric,NO,99.3,0,0.9931
+1_1933.npy,1,dysarthric,SLIP,99.0,0,0.9897
+1_616.npy,1,dysarthric,GREAT,98.7,0,0.9873
+1_2083.npy,1,dysarthric,I EXPE,99.5,0,0.9947
+1_1264.npy,1,dysarthric,PLEE,96.4,3,0.9641
+0_232.npy,0,non_dysarthric,[unclear],88.6,0,0.8857
+1_957.npy,1,dysarthric,THE READ,97.2,0,0.9716
+0_508.npy,0,non_dysarthric,A,97.6,1,0.9761
+0_113.npy,0,non_dysarthric,WHA AARY DO,89.4,6,0.8936
+1_1848.npy,1,dysarthric,LIGHT,98.3,0,0.9833
+1_1162.npy,1,dysarthric,MARK,99.4,0,0.9944
+1_1067.npy,1,dysarthric,BARBES,95.5,3,0.955
+1_1703.npy,1,dysarthric,BORN,99.0,0,0.9903
+1_1700.npy,1,dysarthric,API,98.9,0,0.9889
+1_1028.npy,1,dysarthric,TUG,99.5,0,0.9947
+1_875.npy,1,dysarthric,WIT,98.8,0,0.9879
+1_1651.npy,1,dysarthric,GRAVE,99.5,0,0.9947
+1_613.npy,1,dysarthric,HORR,97.9,0,0.979
+1_2051.npy,1,dysarthric,THIS HAS APPEAR,97.5,0,0.9748
+1_1647.npy,1,dysarthric,LEFT,99.1,0,0.9913
+1_971.npy,1,dysarthric,GOOSH,97.9,1,0.9789
+1_2014.npy,1,dysarthric,HUM,99.4,0,0.994
+0_46.npy,0,non_dysarthric,ONE,98.9,0,0.9893
+1_1438.npy,1,dysarthric,TI,98.1,0,0.9805
+1_1959.npy,1,dysarthric,I FEEL I CAN PLAY,97.5,0,0.9755
+1_634.npy,1,dysarthric,[unclear],88.2,0,0.8816
+1_1152.npy,1,dysarthric,THEME,98.5,0,0.9853
+1_1643.npy,1,dysarthric,PRIMITIVE TR,98.9,0,0.9891
+0_368.npy,0,non_dysarthric,PARK,98.6,0,0.9862
+1_1079.npy,1,dysarthric,CO,99.1,0,0.9913
+1_1694.npy,1,dysarthric,HE HAS PLAYED,98.3,0,0.9835
+1_661.npy,1,dysarthric,T,98.9,1,0.9886
+1_813.npy,1,dysarthric,CITY,99.4,0,0.9937
+0_77.npy,0,non_dysarthric,HAIL,97.9,0,0.9793
+1_641.npy,1,dysarthric,GAD,98.8,1,0.9882
+1_1672.npy,1,dysarthric,A STRANE,95.1,1,0.9512
+1_1199.npy,1,dysarthric,LEEP,99.8,0,0.9982
+1_659.npy,1,dysarthric,[unclear],98.9,0,0.9894
+1_740.npy,1,dysarthric,IF YOU ARE LOOSE,97.4,0,0.9737
+1_950.npy,1,dysarthric,WIT,98.3,0,0.983
+1_1427.npy,1,dysarthric,BORN,97.9,0,0.9792
+1_1931.npy,1,dysarthric,HERE,99.2,0,0.9922
+1_1731.npy,1,dysarthric,GAGEIT,94.1,4,0.9407
+0_187.npy,0,non_dysarthric,STURK,97.1,2,0.9714
+1_1601.npy,1,dysarthric,FULL,98.8,1,0.9881
+0_114.npy,0,non_dysarthric,PLEAD,98.6,0,0.9864
+1_739.npy,1,dysarthric,MIKE,99.1,0,0.991
+1_1421.npy,1,dysarthric,THE SNOW BLUE,98.5,0,0.9854
+1_1917.npy,1,dysarthric,RITE,97.7,1,0.9772
+0_407.npy,0,non_dysarthric,TUG,96.5,3,0.9654
+1_1131.npy,1,dysarthric,EIGHT,99.5,0,0.9946
+1_1306.npy,1,dysarthric,PHIL,98.8,0,0.9882
+0_498.npy,0,non_dysarthric,RIGHT,98.7,0,0.9874
+0_263.npy,0,non_dysarthric,PAUN,98.7,0,0.9867
+1_839.npy,1,dysarthric,IT'S FUN,98.0,0,0.9796
+0_429.npy,0,non_dysarthric,ALPHA,98.6,0,0.9862
+0_276.npy,0,non_dysarthric,FRUIT,97.0,0,0.9701
+1_1952.npy,1,dysarthric,FIT,99.2,0,0.9921
+1_1855.npy,1,dysarthric,THEY CARR,99.0,0,0.9904
+0_216.npy,0,non_dysarthric,TURB,96.9,1,0.9688
+1_1581.npy,1,dysarthric,THAT'S WHAT I THOUGHT,98.2,0,0.9819
+1_1089.npy,1,dysarthric,I THINK I'M FO,97.1,0,0.9706
+0_38.npy,0,non_dysarthric,MORE,99.0,0,0.9901
+1_582.npy,1,dysarthric,F,98.6,0,0.9862
+1_1325.npy,1,dysarthric,EIGHT,99.2,0,0.9922
+1_2003.npy,1,dysarthric,AND,99.1,0,0.991
+0_400.npy,0,non_dysarthric,THE QUICK BROWN,98.3,0,0.9831
+1_1295.npy,1,dysarthric,RAKES,97.5,0,0.9747
+0_529.npy,0,non_dysarthric,FATE,99.3,0,0.9925
+1_1398.npy,1,dysarthric,WE'RE ALL DISA,98.9,0,0.9885
+0_345.npy,0,non_dysarthric,FAIR,98.8,0,0.9879
+1_637.npy,1,dysarthric,BE,97.9,1,0.9789
+1_610.npy,1,dysarthric,[unclear],98.5,0,0.9846
+1_1500.npy,1,dysarthric,BEG,99.3,0,0.9931
+0_284.npy,0,non_dysarthric,WISH,98.5,0,0.9855
+1_1350.npy,1,dysarthric,COALD,97.2,0,0.972
+1_1025.npy,1,dysarthric,SHAW,98.4,0,0.9835
+1_1153.npy,1,dysarthric,FEED,99.7,0,0.9973
+1_663.npy,1,dysarthric,[unclear],69.5,0,0.6945
+1_1513.npy,1,dysarthric,DOCTORS,98.8,0,0.9876
+0_465.npy,0,non_dysarthric,YOU'D BE BETTER A,96.9,0,0.9692
+1_1488.npy,1,dysarthric,SPRAIN,98.0,0,0.9799
+1_725.npy,1,dysarthric,CAKE,98.6,0,0.9856
+1_1532.npy,1,dysarthric,BEG,98.6,0,0.9864
+1_580.npy,1,dysarthric,WE HAVE A,97.1,1,0.9707
+1_882.npy,1,dysarthric,SPIT,99.6,0,0.9957
+1_1539.npy,1,dysarthric,GENTLY PLAYS,98.8,0,0.9878
+0_16.npy,0,non_dysarthric,GIRBLE,97.0,1,0.9703
+1_591.npy,1,dysarthric,[unclear],88.2,0,0.8824
+1_1591.npy,1,dysarthric,TEACH,99.2,0,0.9923
+1_708.npy,1,dysarthric,HARCK,96.9,1,0.969
+1_1510.npy,1,dysarthric,FELL,98.3,1,0.9826
+1_575.npy,1,dysarthric,H,97.7,2,0.9772
+1_1365.npy,1,dysarthric,HARM,99.0,0,0.9896
+1_1244.npy,1,dysarthric,HO,96.0,2,0.9599
+1_1695.npy,1,dysarthric,REPRESS,99.6,0,0.9961
+1_730.npy,1,dysarthric,A ROLL OF WA,98.5,0,0.9847
+1_1745.npy,1,dysarthric,TROUBLE,99.1,0,0.9909
+1_1791.npy,1,dysarthric,FIT,98.6,0,0.9858
+1_992.npy,1,dysarthric,SOME PREFER T,97.7,0,0.9773
+1_954.npy,1,dysarthric,STIMULA,98.8,1,0.9876
+1_543.npy,1,dysarthric,SEP,97.5,1,0.975
+1_723.npy,1,dysarthric,PARK,98.9,0,0.9894
+1_1229.npy,1,dysarthric,BUNCH,99.3,0,0.9934
+1_1031.npy,1,dysarthric,STAKE,97.8,0,0.9777
+0_316.npy,0,non_dysarthric,MY SISTER MADE THE FAR,95.7,0,0.9572
+1_1507.npy,1,dysarthric,MALL,98.8,0,0.9884
+1_821.npy,1,dysarthric,NOTHING HAS,98.9,0,0.9894
+0_418.npy,0,non_dysarthric,BREAK,97.3,1,0.9727
+1_648.npy,1,dysarthric,GRANDFA,99.6,0,0.9959
+1_620.npy,1,dysarthric,[unclear],98.3,1,0.9832
+1_1204.npy,1,dysarthric,BENDER,99.6,0,0.9962
+1_1328.npy,1,dysarthric,CHAP,99.0,0,0.9896
+1_583.npy,1,dysarthric,[unclear],88.6,0,0.8862
+0_507.npy,0,non_dysarthric,SUT,97.7,0,0.9775
+1_1301.npy,1,dysarthric,EIGHT,96.6,0,0.966
+1_1699.npy,1,dysarthric,PATRACA,98.0,0,0.9798
+0_512.npy,0,non_dysarthric,MY,98.2,0,0.9825
+1_1323.npy,1,dysarthric,TICKS,98.2,0,0.9817
+0_34.npy,0,non_dysarthric,MY IOOMN,88.5,7,0.8854
+1_1324.npy,1,dysarthric,HASH,98.9,0,0.9888
+1_660.npy,1,dysarthric,ROW,95.9,2,0.9594
+1_1508.npy,1,dysarthric,FEEL,99.3,0,0.9933
+1_2073.npy,1,dysarthric,TELL,99.0,0,0.9899
+0_55.npy,0,non_dysarthric,GO ASK ME TO KA,95.6,1,0.9557
+1_931.npy,1,dysarthric,UP,98.6,0,0.9865
+0_330.npy,0,non_dysarthric,TIE,98.8,0,0.9876
+0_22.npy,0,non_dysarthric,OH,98.9,0,0.9893
+1_1874.npy,1,dysarthric,ROC,98.1,0,0.9813
+1_2032.npy,1,dysarthric,MUCH,99.8,0,0.9983
+1_1958.npy,1,dysarthric,NO,99.5,0,0.9952
+1_1480.npy,1,dysarthric,[unclear],84.6,0,0.846
+0_208.npy,0,non_dysarthric,GO,99.6,0,0.9957
+0_100.npy,0,non_dysarthric,LEVE,97.0,0,0.9695
+1_2018.npy,1,dysarthric,A LUMINOUS SILVER,95.7,2,0.9566
+1_1930.npy,1,dysarthric,I WAS,97.6,1,0.9763
+1_1351.npy,1,dysarthric,WHIP,99.1,0,0.9912
+1_940.npy,1,dysarthric,SAND,99.4,0,0.994
+1_758.npy,1,dysarthric,WITTY,99.1,0,0.9909
+1_1713.npy,1,dysarthric,STORE,96.5,1,0.9651
+1_1187.npy,1,dysarthric,RENTER,99.0,0,0.9899
+0_86.npy,0,non_dysarthric,AC,95.5,2,0.9549
+1_883.npy,1,dysarthric,LITTER,99.3,0,0.993
+1_1668.npy,1,dysarthric,HESPANICCA,94.9,0,0.9489
+1_633.npy,1,dysarthric,[unclear],78.7,0,0.7871
+1_754.npy,1,dysarthric,SHAP,98.0,1,0.9804
+1_1349.npy,1,dysarthric,CALL,98.5,1,0.985
+0_361.npy,0,non_dysarthric,TORM,96.3,0,0.9633
+0_300.npy,0,non_dysarthric,TUT,97.3,1,0.9731
+1_1430.npy,1,dysarthric,HAD,99.2,0,0.9918
+0_73.npy,0,non_dysarthric,SIMP,99.9,0,0.9987
+1_1624.npy,1,dysarthric,RUST,99.0,0,0.9902
+1_1912.npy,1,dysarthric,I JUST TRY TO,99.1,0,0.9914
+1_914.npy,1,dysarthric,BEST,98.7,0,0.9866
+1_1962.npy,1,dysarthric,JUNGLE,99.1,0,0.9914
+0_389.npy,0,non_dysarthric,GOAT,98.6,0,0.9857
+1_1333.npy,1,dysarthric,WE KNOW WE CAN,97.9,0,0.979
+1_1817.npy,1,dysarthric,FOUR,98.2,0,0.9821
+1_1577.npy,1,dysarthric,LADEL,99.2,0,0.9916
+1_781.npy,1,dysarthric,THE MISGUIDED,98.8,0,0.9884
+0_381.npy,0,non_dysarthric,WELL HE IS,97.7,0,0.9765
+1_1114.npy,1,dysarthric,THE GULFING FOUGH,97.5,0,0.975
+1_991.npy,1,dysarthric,COAT,98.5,0,0.9853
+1_1389.npy,1,dysarthric,BERN,98.4,0,0.9842
+1_624.npy,1,dysarthric,TWICE,99.0,0,0.9898
+1_888.npy,1,dysarthric,NED,99.6,0,0.9961
+1_1102.npy,1,dysarthric,ES,96.2,3,0.9617
+1_1918.npy,1,dysarthric,CAR,98.5,1,0.9853
+1_1724.npy,1,dysarthric,HE SLOWLY,97.9,0,0.9792
+1_1268.npy,1,dysarthric,THE SINGER'S V,97.6,0,0.9762
+1_1792.npy,1,dysarthric,BEAT,99.6,0,0.9956
+1_1793.npy,1,dysarthric,THWAR,98.2,0,0.9818
+1_1303.npy,1,dysarthric,THE JOB ALSO,99.1,0,0.9912
+1_1640.npy,1,dysarthric,THAT PLANT TEE,94.9,3,0.949
+0_474.npy,0,non_dysarthric,[unclear],99.7,0,0.9973
+0_127.npy,0,non_dysarthric,THEN POLLY WIL,95.6,1,0.9558
+1_1057.npy,1,dysarthric,AT AGETT,95.2,1,0.9525
+0_534.npy,0,non_dysarthric,EIR,98.3,0,0.9829
+1_1579.npy,1,dysarthric,CAN YOU PAINT A,98.6,0,0.9864
+1_877.npy,1,dysarthric,I'M WILLING,99.6,0,0.9961
+0_203.npy,0,non_dysarthric,YOU THORUGLY TAKE,92.7,2,0.9271
+1_2096.npy,1,dysarthric,SIDE,98.7,0,0.9873
+1_1710.npy,1,dysarthric,FEED,99.6,0,0.9964
+1_690.npy,1,dysarthric,WHITE,98.4,0,0.9838
+1_1059.npy,1,dysarthric,A QUICK TOUCHDOWN,96.5,0,0.9647
+1_1150.npy,1,dysarthric,THEY WILL TAKE AW,98.3,0,0.9828
+1_1909.npy,1,dysarthric,YES,99.0,0,0.9899
+1_1120.npy,1,dysarthric,YET HE REMAI,98.9,0,0.989
+0_442.npy,0,non_dysarthric,[unclear],99.9,0,0.9992
+1_1821.npy,1,dysarthric,HARE,98.8,0,0.988
+1_619.npy,1,dysarthric,YOU,98.2,0,0.9817
+1_986.npy,1,dysarthric,SHO,97.5,0,0.9751
+1_1046.npy,1,dysarthric,SIGTE,97.9,1,0.9787
+1_1705.npy,1,dysarthric,NO,99.3,0,0.9929
+1_1288.npy,1,dysarthric,ACODEMIC,98.7,0,0.9874
+1_1106.npy,1,dysarthric,NA,98.0,1,0.9797
+0_491.npy,0,non_dysarthric,CHEER,98.4,0,0.9837
+0_336.npy,0,non_dysarthric,PATICAPATIC,94.9,0,0.949
+1_1235.npy,1,dysarthric,AD,98.7,0,0.9869
+1_1633.npy,1,dysarthric,RUN,99.5,0,0.9946
+1_833.npy,1,dysarthric,FEEDS,96.9,1,0.9692
+1_711.npy,1,dysarthric,HIM,99.3,0,0.993
+0_193.npy,0,non_dysarthric,GRAY,97.7,1,0.9767
+0_50.npy,0,non_dysarthric,LATE,99.4,0,0.9938
+1_1337.npy,1,dysarthric,STAKE,98.3,0,0.9835
+1_1127.npy,1,dysarthric,ADDITION AND,97.2,0,0.9719
+1_1829.npy,1,dysarthric,BEAR,98.8,1,0.9883
+0_365.npy,0,non_dysarthric,CARE,98.8,1,0.9875
+1_750.npy,1,dysarthric,SHE WORE WA,98.6,1,0.9862
+1_963.npy,1,dysarthric,BACK,99.1,0,0.9907
+1_766.npy,1,dysarthric,PITTING,99.3,0,0.9925
+0_217.npy,0,non_dysarthric,STARKS,97.7,1,0.9765
+1_1123.npy,1,dysarthric,FOUR,97.7,0,0.9771
+1_1921.npy,1,dysarthric,HE GROUP,98.6,0,0.9864
+1_879.npy,1,dysarthric,HE TOOK ME OUT,97.5,0,0.9754
+0_497.npy,0,non_dysarthric,KILK,97.5,0,0.9755
+0_133.npy,0,non_dysarthric,EA EA EPA,94.8,0,0.9478
+0_424.npy,0,non_dysarthric,DOUBLE,99.8,0,0.9983
+0_5.npy,0,non_dysarthric,SNEEK,98.2,0,0.9824
+1_1534.npy,1,dysarthric,SHE WAS NOT,98.4,0,0.9842
+1_1825.npy,1,dysarthric,HE ADDRESSES,97.8,0,0.9778
+1_1054.npy,1,dysarthric,SPORT,98.0,0,0.9803
+1_1342.npy,1,dysarthric,THE EASTERN COA,98.4,0,0.9844
+0_366.npy,0,non_dysarthric,CARE,99.2,0,0.992
+1_1955.npy,1,dysarthric,SIDE,98.8,0,0.9881
+1_1071.npy,1,dysarthric,FOUR,99.7,0,0.9965
+1_732.npy,1,dysarthric,[unclear],95.4,0,0.9545
+1_815.npy,1,dysarthric,THORN,98.7,0,0.987
+1_2004.npy,1,dysarthric,FIVE,98.9,0,0.9895
+1_1048.npy,1,dysarthric,TIER,97.4,0,0.9742
+1_644.npy,1,dysarthric,AI,99.8,0,0.9982
+1_1565.npy,1,dysarthric,TABLE,99.5,0,0.995
+1_763.npy,1,dysarthric,HE RAPPED THE,97.8,0,0.9782
+0_484.npy,0,non_dysarthric,GOD,99.2,0,0.9918
+1_1697.npy,1,dysarthric,THIS STRIKE S,99.3,0,0.9935
+0_405.npy,0,non_dysarthric,FEED,98.9,0,0.9889
+1_836.npy,1,dysarthric,WICKED,97.8,1,0.9778
+1_1688.npy,1,dysarthric,ABSUR,98.0,0,0.9795
+1_1803.npy,1,dysarthric,EXCEPT IN THE WIN,97.2,0,0.9723
+0_158.npy,0,non_dysarthric,NO,99.8,0,0.9977
+1_1712.npy,1,dysarthric,DOWN,99.4,0,0.9936
+0_211.npy,0,non_dysarthric,STORE,99.2,0,0.9924
+1_1426.npy,1,dysarthric,BORN,99.4,0,0.9942
+1_605.npy,1,dysarthric,FR,97.6,1,0.9764
+1_1764.npy,1,dysarthric,YOU KNOW,98.3,0,0.9831
+1_1847.npy,1,dysarthric,WHY YOWL OR,97.0,0,0.9704
+1_1644.npy,1,dysarthric,SHUT,99.4,0,0.994
+0_237.npy,0,non_dysarthric,BINK,96.7,2,0.9668
+1_1956.npy,1,dysarthric,THINGLE,98.4,0,0.9838
+1_1412.npy,1,dysarthric,THEY RECEIVED,99.4,0,0.9937
+1_743.npy,1,dysarthric,HEM,98.9,0,0.989
+0_471.npy,0,non_dysarthric,TRUP,98.1,0,0.9808
+1_2100.npy,1,dysarthric,BLOW,99.2,0,0.9922
+1_1098.npy,1,dysarthric,SEVEN,99.4,0,0.9941
+0_250.npy,0,non_dysarthric,WARM,99.3,0,0.9932
+1_1895.npy,1,dysarthric,SIH,97.4,0,0.9741
+0_282.npy,0,non_dysarthric,LIGHT,98.7,0,0.9874
+1_1734.npy,1,dysarthric,THE BOY IS,98.8,0,0.9882
+1_1049.npy,1,dysarthric,SHE DOESN'T LIKE,98.1,0,0.9807
+1_1642.npy,1,dysarthric,THE EITHER WALK,98.6,0,0.9864
+1_1563.npy,1,dysarthric,GO,95.0,4,0.9501
+1_1722.npy,1,dysarthric,REED,97.3,1,0.9734
+0_219.npy,0,non_dysarthric,AM I SEE,96.6,1,0.9664
+1_872.npy,1,dysarthric,ONE,99.3,0,0.9929
+1_770.npy,1,dysarthric,AD,97.9,0,0.9791
+1_1836.npy,1,dysarthric,HOP,95.1,2,0.9507
+0_176.npy,0,non_dysarthric,SHEP,96.9,1,0.9688
+1_775.npy,1,dysarthric,SIDE,98.8,0,0.9885
+1_548.npy,1,dysarthric,[unclear],96.1,0,0.9609
+1_1798.npy,1,dysarthric,YOU GO,98.8,0,0.9876
+1_1711.npy,1,dysarthric,PARK,99.7,0,0.997
+1_1370.npy,1,dysarthric,WIDE,98.9,0,0.9895
+1_1658.npy,1,dysarthric,FLYING STA,99.0,0,0.9897
+1_1285.npy,1,dysarthric,ANT,97.5,1,0.9754
+0_66.npy,0,non_dysarthric,THAT,98.5,0,0.9849
+0_31.npy,0,non_dysarthric,SE HAD YOU,95.7,2,0.9569
+1_2037.npy,1,dysarthric,BY,96.1,1,0.961
+1_1304.npy,1,dysarthric,HAVE NO FEA,99.2,0,0.9924
+0_395.npy,0,non_dysarthric,FRAID,98.3,0,0.9827
+0_372.npy,0,non_dysarthric,WEED,99.0,0,0.9903
+1_801.npy,1,dysarthric,NIGHT AFTER,97.7,0,0.9773
+1_712.npy,1,dysarthric,THE BOOKS ARE,98.6,0,0.9862
+1_1051.npy,1,dysarthric,MIT,98.8,0,0.9883
+1_736.npy,1,dysarthric,GOLF,98.8,0,0.9884
+0_151.npy,0,non_dysarthric,CARE,98.8,0,0.9882
+1_2025.npy,1,dysarthric,HARP,99.3,0,0.9932
+0_196.npy,0,non_dysarthric,BRAVE,98.3,0,0.9825
+1_1262.npy,1,dysarthric,RACKS,98.6,0,0.9859
+1_1231.npy,1,dysarthric,EIGHT,97.4,0,0.9736
+1_1449.npy,1,dysarthric,HORN,99.5,0,0.9947
+1_1834.npy,1,dysarthric,THE HUMIDIT,98.5,0,0.9854
+1_1887.npy,1,dysarthric,PRIOR,99.0,0,0.9901
+1_920.npy,1,dysarthric,TRAVEL,98.2,0,0.9819
+0_212.npy,0,non_dysarthric,OER,96.2,3,0.9621
+1_897.npy,1,dysarthric,A GOOD ADDE,99.0,0,0.9902
+1_961.npy,1,dysarthric,SHEET,97.8,0,0.9784
+1_1117.npy,1,dysarthric,CODE,99.6,0,0.9959
+0_47.npy,0,non_dysarthric,FAIR,98.6,0,0.9863
+1_1811.npy,1,dysarthric,AH,96.8,0,0.968
+1_734.npy,1,dysarthric,WE RONE FOR,96.5,0,0.9645
+0_138.npy,0,non_dysarthric,STABBER,97.3,2,0.9733
+1_1804.npy,1,dysarthric,HENAIL,96.2,0,0.9616
+1_934.npy,1,dysarthric,LOCK,98.2,1,0.9818
+1_2084.npy,1,dysarthric,NOVEMBER,99.7,0,0.9967
+0_359.npy,0,non_dysarthric,JACKET,99.7,0,0.9975
+1_1346.npy,1,dysarthric,LO,99.6,0,0.9961
+1_1477.npy,1,dysarthric,HOWL,97.6,1,0.9763
+1_628.npy,1,dysarthric,CH,98.7,0,0.9867
+1_1603.npy,1,dysarthric,PO,97.6,1,0.9762
+1_1717.npy,1,dysarthric,RAGE,97.1,0,0.9713
+1_1689.npy,1,dysarthric,RESERVE,97.8,0,0.9782
+1_584.npy,1,dysarthric,[unclear],99.4,0,0.9942
+1_702.npy,1,dysarthric,API,97.8,0,0.9779
+1_726.npy,1,dysarthric,BLOW,99.1,0,0.991
+1_1119.npy,1,dysarthric,BEAM,98.4,0,0.9841
+1_576.npy,1,dysarthric,[unclear],99.1,0,0.9911
+0_174.npy,0,non_dysarthric,RIGHT,97.9,1,0.9787
+1_1787.npy,1,dysarthric,ALONG,98.8,1,0.9876
+1_1013.npy,1,dysarthric,RAKE,98.8,0,0.988
+1_709.npy,1,dysarthric,HITTING,99.1,0,0.9912
+0_496.npy,0,non_dysarthric,TEAR,98.3,1,0.9829
+1_550.npy,1,dysarthric,EUGAS,95.7,3,0.9568
+1_682.npy,1,dysarthric,YE,98.6,1,0.9863
+1_1972.npy,1,dysarthric,SIH,98.5,0,0.985
+1_1298.npy,1,dysarthric,TAKE,99.1,0,0.9911
+1_1253.npy,1,dysarthric,PUNCH,99.2,0,0.9915
+1_1849.npy,1,dysarthric,THIS WAS EASY,98.4,0,0.984
+1_760.npy,1,dysarthric,PRETTY,99.5,0,0.995
+1_1472.npy,1,dysarthric,H,97.2,0,0.9724
+0_334.npy,0,non_dysarthric,RACK,99.0,0,0.9905
+0_476.npy,0,non_dysarthric,HERE,99.1,0,0.9911
+1_1134.npy,1,dysarthric,IT,99.1,0,0.9908
+1_1386.npy,1,dysarthric,THAN,98.2,0,0.9818
+1_1568.npy,1,dysarthric,LORD,99.1,0,0.991
+1_679.npy,1,dysarthric,OH,97.3,1,0.9735
+1_1172.npy,1,dysarthric,FOOD,99.9,0,0.9991
+1_1506.npy,1,dysarthric,FALL,99.4,0,0.994
+1_899.npy,1,dysarthric,HE IS DEAF,98.1,0,0.9815
+1_572.npy,1,dysarthric,FE,98.6,0,0.9864
+1_1790.npy,1,dysarthric,TRADE,99.2,0,0.9924
+1_594.npy,1,dysarthric,HAIR,99.1,0,0.9911
+1_2087.npy,1,dysarthric,CART,99.8,0,0.9979
+1_795.npy,1,dysarthric,AND,99.7,0,0.9969
+1_753.npy,1,dysarthric,KITTEN,98.8,0,0.9883
+1_1590.npy,1,dysarthric,SHE IS NOT SURE,98.4,0,0.9841
+0_15.npy,0,non_dysarthric,FOR,97.8,0,0.9782
+1_1535.npy,1,dysarthric,I LIKE THEM,98.6,0,0.9865
+0_531.npy,0,non_dysarthric,[unclear],99.7,0,0.997
+1_1037.npy,1,dysarthric,BREAD,99.4,0,0.9943
+1_655.npy,1,dysarthric,SHE,98.9,0,0.9889
+0_58.npy,0,non_dysarthric,LE,97.7,1,0.977
+1_1812.npy,1,dysarthric,FED,98.1,1,0.9808
+0_425.npy,0,non_dysarthric,RAVE,98.6,1,0.9859
+1_893.npy,1,dysarthric,ZIP,97.6,2,0.9756
+0_432.npy,0,non_dysarthric,FORM,99.1,0,0.9907
+0_191.npy,0,non_dysarthric,GLOR,97.1,0,0.9708
+1_1937.npy,1,dysarthric,PAY,99.8,0,0.9979
+1_1159.npy,1,dysarthric,THAT PICTPOCKET,95.5,1,0.9554
+1_944.npy,1,dysarthric,WAT,97.1,1,0.9706
+0_129.npy,0,non_dysarthric,WEGGY YE BEA,95.2,0,0.9524
+1_1885.npy,1,dysarthric,WHERE WERE YOU WELL,97.0,0,0.9698
+1_1307.npy,1,dysarthric,HOWL,98.4,0,0.9842
+1_1140.npy,1,dysarthric,FIVE,98.9,0,0.9888
+1_1620.npy,1,dysarthric,BEN,98.8,0,0.9875
+1_632.npy,1,dysarthric,BO,98.4,0,0.984
+1_2067.npy,1,dysarthric,THE BOOKS ARE V,98.0,0,0.9801
+1_805.npy,1,dysarthric,HE FURTHER,99.2,0,0.9921
+1_803.npy,1,dysarthric,DARN,98.4,0,0.9844
+1_1545.npy,1,dysarthric,I SOON FOUND,99.2,0,0.9918
+0_380.npy,0,non_dysarthric,BREAK,98.8,0,0.9876
+0_490.npy,0,non_dysarthric,NEAR,98.4,0,0.9838
+0_253.npy,0,non_dysarthric,[unclear],94.4,0,0.9442
+0_455.npy,0,non_dysarthric,[unclear],100.0,0,0.9996
+1_1794.npy,1,dysarthric,FARM,99.8,0,0.9979
+1_1681.npy,1,dysarthric,THE CAT HAD,98.8,0,0.9881
+1_1666.npy,1,dysarthric,I SAID I',98.9,0,0.9892
+1_1282.npy,1,dysarthric,HARM,99.1,0,0.9908
+1_600.npy,1,dysarthric,HO,98.8,0,0.9878
+1_707.npy,1,dysarthric,BOTH INJURIES,99.0,0,0.9898
+1_1781.npy,1,dysarthric,CARE,98.8,0,0.988
+1_1969.npy,1,dysarthric,FITTING,99.4,0,0.9945
+1_2069.npy,1,dysarthric,EMIT YO,94.9,3,0.9486
+1_1630.npy,1,dysarthric,STORE,99.2,0,0.9917
+1_1100.npy,1,dysarthric,FIVE,99.8,0,0.9979
+1_1575.npy,1,dysarthric,SCREECH,98.6,0,0.9862
+0_289.npy,0,non_dysarthric,LIP,98.6,0,0.9865
+1_1136.npy,1,dysarthric,THE YOUNG,99.0,0,0.9902
+0_384.npy,0,non_dysarthric,[unclear],99.7,0,0.9974
+0_170.npy,0,non_dysarthric,TRAIL,97.2,1,0.9725
+1_912.npy,1,dysarthric,FOR,97.4,2,0.974
+1_1209.npy,1,dysarthric,CENTRE,98.1,1,0.9811
+1_1861.npy,1,dysarthric,HERE,99.7,0,0.9972
+1_1509.npy,1,dysarthric,FOB,95.0,2,0.9503
+1_1816.npy,1,dysarthric,WE HAVE OFTEN,98.1,0,0.9813
+1_1625.npy,1,dysarthric,SLIP,99.4,0,0.994
+1_1814.npy,1,dysarthric,A,95.6,0,0.9556
+0_201.npy,0,non_dysarthric,GIVING GIRLS,98.0,0,0.98
+1_1284.npy,1,dysarthric,I WANTED,98.9,0,0.9888
+1_904.npy,1,dysarthric,MOST YOUNG,98.3,0,0.983
+1_1815.npy,1,dysarthric,WE HAVE,99.2,0,0.9917
+1_2049.npy,1,dysarthric,HEM,99.4,0,0.9944
+1_1865.npy,1,dysarthric,FERT,98.4,0,0.9839
+1_857.npy,1,dysarthric,NOBODY REA,98.7,0,0.9868
+1_830.npy,1,dysarthric,LEEK,98.3,1,0.9832
+1_1678.npy,1,dysarthric,BUT,98.6,0,0.9859
+0_346.npy,0,non_dysarthric,TORNS,98.9,0,0.9891
+0_228.npy,0,non_dysarthric,PET,97.8,0,0.9783
+1_569.npy,1,dysarthric,TURB,95.7,2,0.9569
+0_393.npy,0,non_dysarthric,GADGET,97.9,0,0.979
+1_1943.npy,1,dysarthric,HE,99.4,0,0.9937
+1_1597.npy,1,dysarthric,BANK,99.4,0,0.9939
+1_1882.npy,1,dysarthric,OF,98.3,1,0.983
+1_1080.npy,1,dysarthric,GIS,98.3,0,0.9835
+0_503.npy,0,non_dysarthric,DEAR,99.7,0,0.9973
+1_1060.npy,1,dysarthric,THE LITTLE GIRLS,97.9,1,0.979
+1_669.npy,1,dysarthric,CRY,98.4,1,0.9837
+0_403.npy,0,non_dysarthric,ONE,99.1,0,0.9908
+1_1097.npy,1,dysarthric,[unclear],96.0,0,0.96
+1_2091.npy,1,dysarthric,CURL LI,96.6,2,0.9658
+1_1478.npy,1,dysarthric,B,99.5,0,0.9948
+1_2009.npy,1,dysarthric,BITY,97.5,1,0.9749
+0_362.npy,0,non_dysarthric,HERE,98.3,0,0.9834
+1_1548.npy,1,dysarthric,FOIL,98.5,0,0.9851
+0_399.npy,0,non_dysarthric,FAIR,99.3,0,0.9932
+1_851.npy,1,dysarthric,BEOLD,95.4,0,0.9542
+1_1978.npy,1,dysarthric,PIT,98.5,0,0.9848
+1_785.npy,1,dysarthric,SERGEANT,99.3,0,0.9927
+1_1683.npy,1,dysarthric,GRAINED,97.9,0,0.9787
+1_1226.npy,1,dysarthric,CHEESE,98.7,0,0.9873
+0_67.npy,0,non_dysarthric,HORN,99.1,0,0.9915
+1_1951.npy,1,dysarthric,PAT,99.0,0,0.9903
+1_1218.npy,1,dysarthric,PET,98.5,0,0.9848
+1_1569.npy,1,dysarthric,LAUL,97.0,0,0.9698
+1_1755.npy,1,dysarthric,RIGHT,96.7,0,0.9674
+1_1504.npy,1,dysarthric,PAIN,99.4,0,0.9939
+0_142.npy,0,non_dysarthric,SHE HAD YOUR DOCKS YOUR,96.9,0,0.9686
+1_1193.npy,1,dysarthric,WE JUST DIDN'T LOO,97.3,0,0.9733
+1_2101.npy,1,dysarthric,HIM,99.0,0,0.9903
+1_1297.npy,1,dysarthric,PAN,97.8,0,0.9777
+0_12.npy,0,non_dysarthric,NO,99.4,0,0.9941
+1_1369.npy,1,dysarthric,THERE IS SUCH A,99.4,0,0.9938
+0_32.npy,0,non_dysarthric,HL,93.7,1,0.9373
+1_2093.npy,1,dysarthric,MIKE,99.4,0,0.994
+1_1570.npy,1,dysarthric,IT'S IMPOSSIBLE,97.4,2,0.9736
+1_1728.npy,1,dysarthric,STOIM,95.5,0,0.9549
+1_1362.npy,1,dysarthric,[unclear],96.8,0,0.9683
+1_2016.npy,1,dysarthric,ALLUMINUM SILVER WE,96.5,1,0.9654
+1_1077.npy,1,dysarthric,HE ASKED,98.9,0,0.9888
+0_239.npy,0,non_dysarthric,AIR,99.1,0,0.9909
+0_445.npy,0,non_dysarthric,WARM,99.3,0,0.9928
+1_1188.npy,1,dysarthric,ME,99.2,0,0.992
+1_677.npy,1,dysarthric,PLAY,99.2,0,0.9921
+1_1353.npy,1,dysarthric,CORN,98.5,0,0.9849
+1_1065.npy,1,dysarthric,MILL,98.1,0,0.9809
+1_639.npy,1,dysarthric,TRA,99.4,0,0.9945
+1_846.npy,1,dysarthric,SHIP,99.1,0,0.9908
+0_240.npy,0,non_dysarthric,FRON,97.2,1,0.9721
+1_1726.npy,1,dysarthric,REBAU,96.8,0,0.9683
+1_1749.npy,1,dysarthric,BIT,99.2,0,0.9919
+1_1822.npy,1,dysarthric,TE LITTLE,96.8,0,0.9685
+1_560.npy,1,dysarthric,[unclear],99.8,0,0.9975
+1_1660.npy,1,dysarthric,MY INSTRUCTION,98.3,0,0.9835
+1_653.npy,1,dysarthric,RAIN,98.7,1,0.987
+1_1605.npy,1,dysarthric,SUPPRESSED,97.2,0,0.9715
+1_1206.npy,1,dysarthric,THE GIRL,97.9,0,0.9793
+1_1888.npy,1,dysarthric,OUR DORGRATES HIG,93.7,0,0.9368
+1_1669.npy,1,dysarthric,COURT,99.7,0,0.9974
+1_2062.npy,1,dysarthric,SITTING,99.9,0,0.9989
+1_1053.npy,1,dysarthric,EIGHT,97.9,0,0.9788
+1_951.npy,1,dysarthric,I CALL,99.9,0,0.9986
+0_236.npy,0,non_dysarthric,SWARM,99.0,0,0.9901
+0_2.npy,0,non_dysarthric,PANOGO M,92.6,3,0.9264
+1_577.npy,1,dysarthric,GREED,97.3,0,0.9727
+1_1945.npy,1,dysarthric,WELL ROBERN WER,95.0,1,0.9504
+1_1645.npy,1,dysarthric,RETRACT,99.2,0,0.9916
+1_1257.npy,1,dysarthric,TALL,99.2,0,0.992
+1_1274.npy,1,dysarthric,KATE,99.0,0,0.9896
+1_1266.npy,1,dysarthric,LYT,97.8,2,0.9781
+1_1422.npy,1,dysarthric,REGULAR ATTEND,99.3,0,0.9926
+1_1941.npy,1,dysarthric,THEIR HOUSES,97.3,0,0.973
+0_205.npy,0,non_dysarthric,DOS,97.0,0,0.9697
+0_102.npy,0,non_dysarthric,YE HE' GO,93.1,2,0.9313
+1_828.npy,1,dysarthric,NO,99.9,0,0.999
+1_1610.npy,1,dysarthric,CONTRAR,98.5,1,0.9852
+0_197.npy,0,non_dysarthric,BABO,98.1,0,0.9806
+0_337.npy,0,non_dysarthric,HE PAT,96.1,1,0.961
+0_112.npy,0,non_dysarthric,PLEASE,97.1,1,0.9713
+1_662.npy,1,dysarthric,[unclear],96.1,0,0.9613
+0_161.npy,0,non_dysarthric,EXCEPT IN THE WINT,97.8,0,0.9779
+1_1946.npy,1,dysarthric,BAD,99.4,0,0.9943
+1_1190.npy,1,dysarthric,SIXTH,97.4,0,0.9738
+1_2081.npy,1,dysarthric,I HAVE HA,96.7,0,0.9665
+1_906.npy,1,dysarthric,WICKER,99.6,0,0.9957
+1_922.npy,1,dysarthric,AH,99.2,0,0.992
+1_1540.npy,1,dysarthric,MAYBE IT'S,97.6,0,0.9759
+1_1859.npy,1,dysarthric,SAY THOUGH,98.0,0,0.9804
+0_501.npy,0,non_dysarthric,THE ISLANDS ARE,98.2,0,0.982
+1_1145.npy,1,dysarthric,STICKS,98.7,0,0.9867
+1_1084.npy,1,dysarthric,BLENDE,97.3,0,0.9727
+1_994.npy,1,dysarthric,ROB,96.6,1,0.9659
+0_377.npy,0,non_dysarthric,DON'T ASK ME TO CARRY,98.4,0,0.9842
+1_571.npy,1,dysarthric,WARM,99.7,0,0.9974
+1_1168.npy,1,dysarthric,EMBER,99.2,0,0.9922
+1_547.npy,1,dysarthric,S,99.0,0,0.9895
+1_2066.npy,1,dysarthric,HE DART,99.0,0,0.9896
+1_1600.npy,1,dysarthric,PREACH,99.5,0,0.9952
+1_1122.npy,1,dysarthric,THREE,99.6,0,0.9958
+1_1279.npy,1,dysarthric,CILE,97.9,0,0.9785
+1_567.npy,1,dysarthric,GIVING TH,98.8,0,0.9882
+1_1125.npy,1,dysarthric,ME,99.1,0,0.9906
+0_42.npy,0,non_dysarthric,SOAP,98.9,0,0.9893
+1_1432.npy,1,dysarthric,THE NEW HIGHWAY,98.3,0,0.9828
+1_876.npy,1,dysarthric,HAM,99.3,0,0.9931
+0_340.npy,0,non_dysarthric,[unclear],99.9,0,0.9994
+0_166.npy,0,non_dysarthric,READ,99.3,0,0.9935
+1_2021.npy,1,dysarthric,ITEVENTUALLY,97.5,1,0.975
+1_1154.npy,1,dysarthric,BEEP,99.4,0,0.9937
+1_1998.npy,1,dysarthric,A ROUD HAR,93.6,3,0.9357
+0_49.npy,0,non_dysarthric,MARA,97.5,0,0.9754
+1_1475.npy,1,dysarthric,ABEL,99.7,0,0.9972
+1_1665.npy,1,dysarthric,ITS BEAUTY,99.0,0,0.9904
+0_392.npy,0,non_dysarthric,THUS,99.3,0,0.9925
+1_1368.npy,1,dysarthric,TERM,99.0,0,0.9899
+1_1698.npy,1,dysarthric,SUPER,97.2,0,0.9718
+0_157.npy,0,non_dysarthric,EARL,98.7,0,0.9869
+1_1549.npy,1,dysarthric,NA,98.0,1,0.9805
+1_1381.npy,1,dysarthric,A FEW MAY BE HAR,98.6,0,0.9857
+1_1852.npy,1,dysarthric,[unclear],99.3,0,0.9934
+1_1999.npy,1,dysarthric,WHEN ALL ELSE FAILED,97.0,1,0.9701
+1_1271.npy,1,dysarthric,NOW I'M LIVING,98.7,0,0.9871
+1_2023.npy,1,dysarthric,YES,98.9,0,0.9886
+1_789.npy,1,dysarthric,HUVATE,95.8,1,0.9582
+0_428.npy,0,non_dysarthric,TRADE,99.0,0,0.9899
+0_238.npy,0,non_dysarthric,THE QUICK BROWN FOX TUMPS,97.1,1,0.9715
+1_1267.npy,1,dysarthric,STICKS,98.2,0,0.9825
+0_20.npy,0,non_dysarthric,GUG,99.4,0,0.9943
+1_1763.npy,1,dysarthric,UP,99.2,0,0.9924
+1_1780.npy,1,dysarthric,SHIP,98.4,0,0.9841
+1_1347.npy,1,dysarthric,HOG,99.6,0,0.9959
+0_417.npy,0,non_dysarthric,CORN,98.9,0,0.9889
+1_676.npy,1,dysarthric,DELTA,99.7,0,0.9971
+1_1936.npy,1,dysarthric,DEAR,99.0,0,0.9896
+1_952.npy,1,dysarthric,AIR,99.3,0,0.993
+0_294.npy,0,non_dysarthric,DEAR,99.0,0,0.9897
+1_1554.npy,1,dysarthric,BAU,98.4,1,0.9837
+1_2094.npy,1,dysarthric,THE LITTLE SCHOOL,97.4,0,0.9735
+0_262.npy,0,non_dysarthric,HA,97.4,1,0.9738
+1_752.npy,1,dysarthric,LAYR,98.9,0,0.989
+0_247.npy,0,non_dysarthric,USUALLY MINUS SEVERAL,95.1,0,0.9507
+0_464.npy,0,non_dysarthric,PILE,98.9,0,0.9885
+0_264.npy,0,non_dysarthric,BOD,98.4,1,0.9845
+0_244.npy,0,non_dysarthric,SUP,97.2,1,0.9719
+1_787.npy,1,dysarthric,ALLAMONY,97.8,1,0.978
+0_502.npy,0,non_dysarthric,ARYA,99.4,0,0.9942
+0_155.npy,0,non_dysarthric,THRIES EACH DAY HE PLAYS,95.9,0,0.9587
+1_913.npy,1,dysarthric,SHOUT,97.4,0,0.9742
+1_942.npy,1,dysarthric,DRESS,98.9,0,0.9886
+1_703.npy,1,dysarthric,A,97.9,0,0.9791
+1_545.npy,1,dysarthric,BR,98.5,1,0.9847
+1_587.npy,1,dysarthric,GRA,97.9,1,0.9789
+1_1908.npy,1,dysarthric,SPRINKALL,97.6,1,0.9757
+1_1953.npy,1,dysarthric,THE ISLAN,99.1,0,0.9906
+1_894.npy,1,dysarthric,HAND,98.7,0,0.9866
+1_829.npy,1,dysarthric,SPET,98.5,1,0.9847
+1_1691.npy,1,dysarthric,BAL,95.6,2,0.9564
+0_364.npy,0,non_dysarthric,NE,98.6,0,0.9856
+0_353.npy,0,non_dysarthric,STORMS,98.1,0,0.9814
+1_2011.npy,1,dysarthric,BIT,98.9,0,0.9886
+1_744.npy,1,dysarthric,SAIDING,96.3,0,0.963
+1_1751.npy,1,dysarthric,USUALLY,99.4,0,0.9938
+1_1911.npy,1,dysarthric,COOP,99.5,0,0.9952
+1_1473.npy,1,dysarthric,HARRING,98.1,1,0.981
+0_41.npy,0,non_dysarthric,POOR,99.0,0,0.9898
+1_816.npy,1,dysarthric,IT EVENTUALL,99.0,0,0.9902
+1_704.npy,1,dysarthric,FOX,99.6,0,0.9957
+1_1899.npy,1,dysarthric,NEAR,99.1,0,0.9908
+1_967.npy,1,dysarthric,BIL,96.4,1,0.9636
+0_71.npy,0,non_dysarthric,LO,97.2,0,0.9719
+1_1939.npy,1,dysarthric,SWAY,98.1,0,0.9809
+0_190.npy,0,non_dysarthric,GREAK,98.4,0,0.9841
+1_615.npy,1,dysarthric,SHET,97.9,0,0.9795
+1_780.npy,1,dysarthric,DART,98.9,0,0.9888
+1_911.npy,1,dysarthric,QUICKER,99.4,0,0.9944
+1_1230.npy,1,dysarthric,ANY CONTRIBU,98.1,0,0.9814
+0_132.npy,0,non_dysarthric,APIARPIARPIA,96.4,1,0.9638
+1_1047.npy,1,dysarthric,THE FIST SWAM,99.3,0,0.9927
+1_1103.npy,1,dysarthric,NINE,99.5,0,0.9946
+0_254.npy,0,non_dysarthric,[unclear],96.0,0,0.9604
+1_1560.npy,1,dysarthric,SEE,98.2,0,0.982
+1_1964.npy,1,dysarthric,THE TRAIN OF HER,96.6,0,0.9659
+0_308.npy,0,non_dysarthric,ER,98.2,0,0.9817
+1_956.npy,1,dysarthric,LAKE,99.3,0,0.9926
+1_1001.npy,1,dysarthric,THERE IS DEF,98.3,0,0.9827
+1_848.npy,1,dysarthric,NOT,97.6,1,0.9755
+1_1322.npy,1,dysarthric,SEED,97.5,0,0.9745
+0_81.npy,0,non_dysarthric,CRAY,98.6,1,0.9864
+1_921.npy,1,dysarthric,SELL,97.5,2,0.9748
+0_70.npy,0,non_dysarthric,KIR,98.1,0,0.9808
+1_1844.npy,1,dysarthric,HERRET,97.6,0,0.9761
+1_978.npy,1,dysarthric,BELL,98.7,0,0.9872
+1_1708.npy,1,dysarthric,GREAT,97.2,1,0.9723
+1_1387.npy,1,dysarthric,WE'VE DONE IT IN THE,97.1,1,0.9714
+0_326.npy,0,non_dysarthric,I WAS CONSCIOUS ALL THAT,95.0,0,0.9505
+1_1420.npy,1,dysarthric,HE TOOK HEART AND,97.6,0,0.9761
+1_675.npy,1,dysarthric,ROCKS,97.9,0,0.9787
+1_1927.npy,1,dysarthric,MERE,97.8,1,0.978
+1_1901.npy,1,dysarthric,[unclear],98.0,0,0.9797
+1_570.npy,1,dysarthric,DON'T,98.0,1,0.9803
+1_1195.npy,1,dysarthric,TENDER,99.1,0,0.9913
+1_1779.npy,1,dysarthric,[unclear],94.6,4,0.9465
+1_819.npy,1,dysarthric,WIT,98.2,0,0.982
+1_767.npy,1,dysarthric,BITTEN,98.8,0,0.9876
+1_1086.npy,1,dysarthric,I SCREAM,97.2,0,0.9722
+1_1987.npy,1,dysarthric,WRITTEN,98.5,0,0.9848
+1_1992.npy,1,dysarthric,AWEEK,97.9,0,0.9788
+1_1009.npy,1,dysarthric,ONDE,95.9,2,0.959
+1_1988.npy,1,dysarthric,THE DOLPHIN SWAM AROU,97.1,0,0.9713
+1_2056.npy,1,dysarthric,NIN,97.5,0,0.9746
+1_612.npy,1,dysarthric,DAGGER,100.0,0,0.9996
+0_265.npy,0,non_dysarthric,SIR,98.3,0,0.9827
+1_1902.npy,1,dysarthric,[unclear],98.7,0,0.9873
+1_1135.npy,1,dysarthric,REEP,97.6,2,0.9762
+1_1232.npy,1,dysarthric,EARSE,97.5,1,0.9751
+1_1483.npy,1,dysarthric,FAUL,96.6,1,0.9665
+1_603.npy,1,dysarthric,B,98.7,0,0.9869
+1_1415.npy,1,dysarthric,WELL,98.1,0,0.981
+1_1055.npy,1,dysarthric,YOUNG PEOPLE,99.4,0,0.9943
+1_2080.npy,1,dysarthric,BROT,97.6,0,0.9757
+0_478.npy,0,non_dysarthric,CLIP,97.8,1,0.9782
+1_1750.npy,1,dysarthric,HIT,98.2,1,0.9815
+1_1461.npy,1,dysarthric,PORCUPINES RE,97.5,0,0.9747
+1_966.npy,1,dysarthric,SORT,99.0,0,0.9901
+1_1363.npy,1,dysarthric,GO,99.0,0,0.9895
+0_207.npy,0,non_dysarthric,BALON,98.0,1,0.9796
+1_1655.npy,1,dysarthric,GUSK,98.8,0,0.9884
+1_1891.npy,1,dysarthric,BOOT,98.6,0,0.9864
+0_475.npy,0,non_dysarthric,EIGHT,97.3,0,0.9726
+1_681.npy,1,dysarthric,GO,99.4,0,0.9937
+1_2082.npy,1,dysarthric,DARN,96.9,1,0.9694
+1_1622.npy,1,dysarthric,GRAIN,99.4,0,0.9937
+1_1679.npy,1,dysarthric,ABSURD,99.4,0,0.9943
+0_313.npy,0,non_dysarthric,ARE YOUR GRATES HIGHER OR LOW,93.7,2,0.9369
+0_204.npy,0,non_dysarthric,RILL,97.3,0,0.9728
+1_1674.npy,1,dysarthric,DESERVE,98.4,0,0.9835
+1_1613.npy,1,dysarthric,GRAIN,99.2,0,0.9922
+1_1374.npy,1,dysarthric,SOR,97.5,1,0.975
+1_745.npy,1,dysarthric,HUM,98.8,0,0.9877
+1_1702.npy,1,dysarthric,[unclear],91.8,0,0.9185
+1_773.npy,1,dysarthric,WRITTEN,98.3,0,0.9826
+1_544.npy,1,dysarthric,FARM,98.6,1,0.9863
+0_286.npy,0,non_dysarthric,HIRE,97.6,1,0.9756
+0_18.npy,0,non_dysarthric,GM,96.8,1,0.9681
+1_1357.npy,1,dysarthric,YOU HAVE TO,98.3,0,0.9827
+0_243.npy,0,non_dysarthric,LURKED,97.5,0,0.9749
+1_1783.npy,1,dysarthric,JAGGED,98.6,0,0.9861
+1_2076.npy,1,dysarthric,AT,98.4,0,0.9844
+1_1555.npy,1,dysarthric,CRAWL,98.4,0,0.9841
+0_500.npy,0,non_dysarthric,NO,99.6,0,0.9959
+1_933.npy,1,dysarthric,CHIP,99.1,0,0.9912
+0_321.npy,0,non_dysarthric,WE GATHERED OUR SHELVES ON THE BEACH,96.1,0,0.9608
+1_1618.npy,1,dysarthric,BUCK,99.1,0,0.9905
+1_1101.npy,1,dysarthric,BUMPER,99.9,0,0.999
+1_1742.npy,1,dysarthric,DAGGER,99.5,0,0.9954
+1_1903.npy,1,dysarthric,THE MOTHER,99.2,0,0.992
+0_328.npy,0,non_dysarthric,SHWET,96.1,3,0.9613
+1_1341.npy,1,dysarthric,AND,99.4,0,0.9937
+1_863.npy,1,dysarthric,SHALL,98.8,0,0.9876
+1_1302.npy,1,dysarthric,IT IS,97.9,0,0.9792
+1_1583.npy,1,dysarthric,THE YOUNG D,96.8,1,0.9682
+0_75.npy,0,non_dysarthric,YE BO,93.2,4,0.9325
+1_1696.npy,1,dysarthric,SCORT,98.1,0,0.9808
+1_1014.npy,1,dysarthric,DEAD,99.3,0,0.9926
+0_391.npy,0,non_dysarthric,FIT,99.3,0,0.9931
+1_898.npy,1,dysarthric,PLEASE OPEN,97.9,0,0.9794
+0_64.npy,0,non_dysarthric,B,98.5,0,0.9853
+1_808.npy,1,dysarthric,OUR FOUL F,96.4,1,0.9642
+1_866.npy,1,dysarthric,DIFE,99.0,0,0.9901
+1_2090.npy,1,dysarthric,SAID HE,98.5,0,0.985
+0_446.npy,0,non_dysarthric,BEAT,99.0,0,0.9899
+1_886.npy,1,dysarthric,NONE,98.6,0,0.9856
+1_793.npy,1,dysarthric,MUSH,99.9,0,0.9986
+1_1377.npy,1,dysarthric,PAT,97.6,0,0.9761
+0_406.npy,0,non_dysarthric,[unclear],99.6,0,0.9964
+1_1744.npy,1,dysarthric,WARM,99.7,0,0.9968
+1_617.npy,1,dysarthric,NO,98.9,0,0.989
+0_148.npy,0,non_dysarthric,JACKE,97.4,2,0.9744
+1_1799.npy,1,dysarthric,FORM,99.6,0,0.996
+1_1373.npy,1,dysarthric,PAD,99.7,0,0.9968
+1_1561.npy,1,dysarthric,WE GOT MERRY,97.9,0,0.9794
+0_92.npy,0,non_dysarthric,GLOW,97.4,0,0.9744
+1_694.npy,1,dysarthric,SWEAT,97.4,1,0.9739
+1_838.npy,1,dysarthric,[unclear],95.2,0,0.952
+1_1910.npy,1,dysarthric,MY SISTER MADE,98.5,0,0.9846
+1_1413.npy,1,dysarthric,CORK,99.0,0,0.9903
+1_1505.npy,1,dysarthric,SO HE HA,99.0,0,0.9901
+1_1081.npy,1,dysarthric,[unclear],83.9,0,0.8389
+1_643.npy,1,dysarthric,GRAY,97.3,1,0.9734
+0_430.npy,0,non_dysarthric,TUBBLES,96.8,0,0.9679
+1_1997.npy,1,dysarthric,PITTING,99.1,0,0.9909
+0_252.npy,0,non_dysarthric,BUT HE ALWAYS ANSWERS BU,95.6,0,0.9556
+0_124.npy,0,non_dysarthric,AHLITTLE BOY,95.0,0,0.9495
+1_1443.npy,1,dysarthric,LEEK,97.8,2,0.9779
+1_804.npy,1,dysarthric,KILO,98.3,0,0.9834
+1_2001.npy,1,dysarthric,DAY AFTER DAY,98.3,0,0.9835
+1_1928.npy,1,dysarthric,[unclear],95.6,0,0.9558
+1_1254.npy,1,dysarthric,ALE,98.8,0,0.9878
+1_891.npy,1,dysarthric,LEFT,99.8,0,0.9975
+1_1682.npy,1,dysarthric,CEMENT,99.3,0,0.9929
+1_1752.npy,1,dysarthric,WHEN HE S,98.1,0,0.981
+1_1533.npy,1,dysarthric,SHE,98.1,0,0.9806
+1_1259.npy,1,dysarthric,PEL,95.7,1,0.957
+1_827.npy,1,dysarthric,LOYAL,98.6,0,0.9862
+1_2031.npy,1,dysarthric,AND,99.2,0,0.9923
+1_1043.npy,1,dysarthric,FORK,98.9,0,0.9885
+0_408.npy,0,non_dysarthric,TWAM,95.7,1,0.9573
+1_1019.npy,1,dysarthric,FEAR,99.6,0,0.9957
+1_2052.npy,1,dysarthric,SIX,98.9,0,0.9894
+1_1239.npy,1,dysarthric,LEEP,98.7,0,0.9871
+0_499.npy,0,non_dysarthric,THE TRAIN APPROACHED THE,96.7,0,0.967
+0_141.npy,0,non_dysarthric,FRAN,96.2,2,0.9622
+1_1032.npy,1,dysarthric,RAY,99.8,0,0.9984
+0_72.npy,0,non_dysarthric,WARM,99.2,0,0.9921
+1_1390.npy,1,dysarthric,WE KNEW WE WERE,98.0,0,0.9803
+1_541.npy,1,dysarthric,PAT,99.6,0,0.9956
+1_2033.npy,1,dysarthric,LEAGUE,96.9,0,0.9687
+1_1246.npy,1,dysarthric,WE ARE THE LARGES,97.1,0,0.971
+1_1893.npy,1,dysarthric,RIT,96.9,0,0.9689
+1_1553.npy,1,dysarthric,YOUNG AND OLD ALL,97.3,0,0.973
+1_1617.npy,1,dysarthric,SURE,98.2,0,0.9818
+0_109.npy,0,non_dysarthric,RIGT,95.8,1,0.9576
+1_776.npy,1,dysarthric,FIVE,99.0,0,0.9901
+1_905.npy,1,dysarthric,THEN,97.2,0,0.972
+1_1635.npy,1,dysarthric,GRAPE,99.5,0,0.9952
+0_510.npy,0,non_dysarthric,FORWARD,99.4,0,0.9943
+0_167.npy,0,non_dysarthric,HARE,99.0,0,0.9904
+0_234.npy,0,non_dysarthric,[unclear],92.8,0,0.9279
+1_1782.npy,1,dysarthric,REED,97.9,1,0.9789
+1_1367.npy,1,dysarthric,WEEP,99.1,0,0.9913
+0_450.npy,0,non_dysarthric,SICK,98.3,0,0.9829
+1_2007.npy,1,dysarthric,VIR,99.0,0,0.9898
+1_2036.npy,1,dysarthric,BRONE,97.2,0,0.9724
+1_1464.npy,1,dysarthric,BELOW,99.3,0,0.9929
+1_1033.npy,1,dysarthric,FOR,98.7,0,0.9869
+1_2058.npy,1,dysarthric,[unclear],82.4,0,0.8242
+1_1863.npy,1,dysarthric,SI,95.9,0,0.9593
+1_1063.npy,1,dysarthric,THE PAINTER P,98.7,0,0.9865
+1_1260.npy,1,dysarthric,SEL,97.4,3,0.9743
+1_938.npy,1,dysarthric,DO DAD DO,96.6,1,0.9662
+1_1166.npy,1,dysarthric,GRANDMOTHER,99.2,0,0.9922
+1_1109.npy,1,dysarthric,FT,97.2,2,0.9718
+0_371.npy,0,non_dysarthric,DUG,99.3,0,0.993
+1_1045.npy,1,dysarthric,SHRED,99.1,0,0.9906
+1_649.npy,1,dysarthric,CHAIR,99.3,0,0.9928
+1_599.npy,1,dysarthric,GUB,98.5,1,0.9852
+1_684.npy,1,dysarthric,THERE,97.8,0,0.9782
+1_1715.npy,1,dysarthric,CARE,99.1,0,0.9911
+0_60.npy,0,non_dysarthric,NAK,97.3,2,0.9734
+1_881.npy,1,dysarthric,SPET,97.4,0,0.974
+1_788.npy,1,dysarthric,THE LITTLE,98.6,0,0.9862
+1_1203.npy,1,dysarthric,TALE,99.5,0,0.9947
+1_1450.npy,1,dysarthric,EAT YOUR RAISINS,97.7,0,0.9767
+0_402.npy,0,non_dysarthric,TWICE EACH DAY,99.0,0,0.9896
+1_1177.npy,1,dysarthric,SPIN,98.2,1,0.9815
+1_1336.npy,1,dysarthric,THIS HE AD,98.9,0,0.9893
+1_658.npy,1,dysarthric,HE,98.9,0,0.9887
+1_1446.npy,1,dysarthric,PINK,99.6,0,0.9959
+1_1770.npy,1,dysarthric,STICK,99.1,0,0.9905
+1_869.npy,1,dysarthric,GLITTER,99.1,0,0.991
+1_2074.npy,1,dysarthric,CAKE,99.1,0,0.9913
+1_2005.npy,1,dysarthric,THE LITTLE,98.9,0,0.9895
+0_28.npy,0,non_dysarthric,BE,97.5,0,0.975
+1_696.npy,1,dysarthric,SUT,98.1,1,0.9805
+0_169.npy,0,non_dysarthric,THERE,98.2,0,0.982
+0_172.npy,0,non_dysarthric,TWO,99.2,0,0.9924
+1_602.npy,1,dysarthric,CHU,98.7,0,0.9873
+1_654.npy,1,dysarthric,TARE,98.8,0,0.988
+1_784.npy,1,dysarthric,FINE,98.7,0,0.9866
+1_2059.npy,1,dysarthric,QUEBEC,99.3,0,0.9926
+0_119.npy,0,non_dysarthric,KIP,99.2,0,0.9918
+1_1494.npy,1,dysarthric,RAMP,98.6,0,0.9857
+0_242.npy,0,non_dysarthric,WAM,98.6,0,0.9862
+1_1042.npy,1,dysarthric,RED,99.2,0,0.9918
+0_159.npy,0,non_dysarthric,[unclear],97.0,0,0.9698
+0_505.npy,0,non_dysarthric,THE LEC,96.4,1,0.9641
+1_1846.npy,1,dysarthric,MANI,96.9,2,0.9692
+1_1261.npy,1,dysarthric,EIGHT,98.7,0,0.9869
+1_674.npy,1,dysarthric,WE G,99.1,0,0.9914
+1_1355.npy,1,dysarthric,DOCK,98.5,0,0.9849
+1_1417.npy,1,dysarthric,SHIP,98.2,0,0.9818
+1_1925.npy,1,dysarthric,SLEEP,99.4,0,0.994
+1_1026.npy,1,dysarthric,READ,99.0,0,0.9903
+1_1151.npy,1,dysarthric,HER DARK HAI,99.3,0,0.9934
+1_2088.npy,1,dysarthric,PARK,98.9,1,0.9887
+1_2010.npy,1,dysarthric,BOTH O,96.5,1,0.9651
+1_1326.npy,1,dysarthric,THE PROWLER WAR,96.8,1,0.9675
+1_1149.npy,1,dysarthric,GUEST,98.2,1,0.9823
+1_1989.npy,1,dysarthric,LYMA,98.0,1,0.9805
+1_997.npy,1,dysarthric,HE,98.4,0,0.9841
+1_1558.npy,1,dysarthric,CREATURE,98.9,0,0.9889
+0_218.npy,0,non_dysarthric,STORE,99.5,0,0.9948
+1_1883.npy,1,dysarthric,EVERYTHING WET,97.7,0,0.977
+1_1571.npy,1,dysarthric,PACE,99.6,0,0.9956
+1_1344.npy,1,dysarthric,DILE,97.8,1,0.9778
+1_592.npy,1,dysarthric,TUR,98.9,0,0.9888
+1_737.npy,1,dysarthric,PHIL,99.1,0,0.9911
+1_1743.npy,1,dysarthric,TIP,99.8,0,0.9979
+1_1968.npy,1,dysarthric,THE BOX,98.8,0,0.9884
+1_1663.npy,1,dysarthric,BOOT,98.9,0,0.9892
+1_1334.npy,1,dysarthric,MUNCH,99.3,0,0.9926
+1_814.npy,1,dysarthric,HEART,98.6,0,0.986
+1_1139.npy,1,dysarthric,ROU,98.0,0,0.9802
+1_1221.npy,1,dysarthric,HAN,98.8,0,0.9881
+1_973.npy,1,dysarthric,COCOANUT CREAM PO,96.7,0,0.9674
+1_693.npy,1,dysarthric,TRUE,99.2,0,0.9918
+1_1423.npy,1,dysarthric,TAGH,96.5,1,0.9652
+1_987.npy,1,dysarthric,CHIN,97.3,0,0.9725
+1_1649.npy,1,dysarthric,[unclear],66.8,0,0.6676
+0_333.npy,0,non_dysarthric,ROCKS,99.3,0,0.9932
+1_1090.npy,1,dysarthric,NICE,99.3,0,0.9929
+1_1881.npy,1,dysarthric,BAD,99.7,0,0.9967
+1_1393.npy,1,dysarthric,UPRAIDE YOUR S,94.2,1,0.9423
+1_1191.npy,1,dysarthric,LUNDER,98.3,0,0.9825
+1_854.npy,1,dysarthric,PEOPLE,98.8,0,0.9877
+1_972.npy,1,dysarthric,HE PLAYED BASKE,95.8,2,0.9579
+1_1113.npy,1,dysarthric,WORSE LUCK,99.3,0,0.993
+1_1760.npy,1,dysarthric,FIT,99.2,0,0.9918
+1_1667.npy,1,dysarthric,LISP,99.2,0,0.992
+1_842.npy,1,dysarthric,WHITE CAPPED,98.1,0,0.9806
+1_2075.npy,1,dysarthric,EGO,98.5,0,0.9854
+1_1155.npy,1,dysarthric,I ALSO CAN,97.6,0,0.9757
+1_1023.npy,1,dysarthric,SUDDENLY,99.2,0,0.9917
+0_293.npy,0,non_dysarthric,FRENK,96.9,2,0.9693
+1_929.npy,1,dysarthric,EACH ONE V,98.3,0,0.9825
+0_84.npy,0,non_dysarthric,OPA,96.3,0,0.9628
+1_915.npy,1,dysarthric,FIERA,98.4,0,0.9839
+1_1361.npy,1,dysarthric,GO,98.6,0,0.9857
+1_1165.npy,1,dysarthric,FEAR,99.5,0,0.9953
+1_1321.npy,1,dysarthric,WE EXPERI,95.7,0,0.9567
+1_553.npy,1,dysarthric,[unclear],86.5,0,0.8646
+1_705.npy,1,dysarthric,PAPA,99.9,0,0.9992
+1_1807.npy,1,dysarthric,TWICE EACH DA,98.8,0,0.9883
+0_522.npy,0,non_dysarthric,WOT WOOP,93.2,4,0.9321
+1_1904.npy,1,dysarthric,TROOP,98.5,0,0.9855
+1_2028.npy,1,dysarthric,DO,99.0,0,0.9897
+1_1197.npy,1,dysarthric,IT WAS VERY PO,97.7,0,0.9769
+0_302.npy,0,non_dysarthric,RITE,97.1,0,0.9709
+1_1858.npy,1,dysarthric,[unclear],80.5,0,0.805
+1_1248.npy,1,dysarthric,FEET,98.5,0,0.9852
+0_456.npy,0,non_dysarthric,[unclear],100.0,0,0.9996
+1_1629.npy,1,dysarthric,LEMB,97.5,0,0.9745
+1_1572.npy,1,dysarthric,LAT,97.7,0,0.9771
+0_13.npy,0,non_dysarthric,HE SLOY KINGS,93.5,0,0.9346
+1_604.npy,1,dysarthric,FE,98.9,0,0.9891
+1_1276.npy,1,dysarthric,DUCK,99.2,0,0.9916
+1_1593.npy,1,dysarthric,BOG,99.2,0,0.9925
+1_825.npy,1,dysarthric,I HAVE HAD,98.9,0,0.9889
+0_527.npy,0,non_dysarthric,TER,96.7,1,0.9669
+1_798.npy,1,dysarthric,BRANE,98.1,0,0.9812
+1_1942.npy,1,dysarthric,PEERRE,98.6,0,0.9864
+0_27.npy,0,non_dysarthric,BUT HE ALWAY AK YO,86.6,5,0.8656
+0_437.npy,0,non_dysarthric,FEED,99.3,0,0.9931
+1_1460.npy,1,dysarthric,TALE,98.2,0,0.982
+1_1576.npy,1,dysarthric,CABLE,99.3,0,0.9932
+1_1592.npy,1,dysarthric,AN OFFICIAL DE,98.8,0,0.9875
+1_1462.npy,1,dysarthric,CHALLENGE E,97.6,0,0.9761
+1_930.npy,1,dysarthric,NON,98.7,0,0.9873
+1_1129.npy,1,dysarthric,GASH,99.3,0,0.9927
+1_1818.npy,1,dysarthric,TRACE,99.1,0,0.9912
+1_1582.npy,1,dysarthric,THEY MAKE GEN,98.8,0,0.9878
+1_2064.npy,1,dysarthric,MUSH,98.5,0,0.9852
+0_525.npy,0,non_dysarthric,ROCK,99.1,0,0.9907
+1_2022.npy,1,dysarthric,PIT,99.5,0,0.9953
+1_1981.npy,1,dysarthric,IF YOU ARE LOSING,97.1,1,0.9707
+1_2019.npy,1,dysarthric,SWI,97.5,1,0.9753
+1_943.npy,1,dysarthric,SOME HOTE,98.6,0,0.986
+1_1171.npy,1,dysarthric,THOSE PEOPLE ARE,99.5,0,0.9948
+1_1515.npy,1,dysarthric,VAMP,99.3,0,0.9932
+0_511.npy,0,non_dysarthric,RICH,98.3,1,0.9834
+0_230.npy,0,non_dysarthric,SLICK,97.5,0,0.9749
+1_1214.npy,1,dysarthric,I,98.7,1,0.9872
+0_235.npy,0,non_dysarthric,B,98.1,0,0.9805
+1_1315.npy,1,dysarthric,FEAR,99.4,0,0.9939
+0_231.npy,0,non_dysarthric,[unclear],76.3,0,0.7631
+1_1352.npy,1,dysarthric,FORK,99.1,0,0.9909
+1_1604.npy,1,dysarthric,BOON,99.1,0,0.9907
+0_451.npy,0,non_dysarthric,[unclear],97.4,1,0.9743
+1_645.npy,1,dysarthric,YET HE,99.0,0,0.9898
+0_338.npy,0,non_dysarthric,[unclear],99.6,0,0.9957
+1_1654.npy,1,dysarthric,BOTH,98.7,0,0.987
+1_1002.npy,1,dysarthric,SHEEP,98.7,0,0.9871
+1_1205.npy,1,dysarthric,ONE,99.4,0,0.9935
+1_1525.npy,1,dysarthric,A SPADE,98.1,0,0.981
+1_1961.npy,1,dysarthric,AIR,99.6,0,0.9962
+1_1523.npy,1,dysarthric,STREET,99.5,0,0.9953
+1_759.npy,1,dysarthric,AT,98.8,0,0.9879
+1_1311.npy,1,dysarthric,HAN,98.4,0,0.9836
+1_1198.npy,1,dysarthric,TIMBER,99.9,0,0.9989
+1_721.npy,1,dysarthric,REEK,98.1,1,0.9808
+1_1215.npy,1,dysarthric,LIP,99.3,0,0.993
+1_1986.npy,1,dysarthric,HOTEL,99.0,0,0.9895
+0_98.npy,0,non_dysarthric,MUG,98.8,0,0.9877
+1_1052.npy,1,dysarthric,LIFE IS SHORT,99.2,0,0.9921
+0_397.npy,0,non_dysarthric,YES,98.9,0,0.9889
+1_1340.npy,1,dysarthric,EVEN A,99.0,0,0.9896
+1_701.npy,1,dysarthric,[unclear],92.5,0,0.9245
+1_1399.npy,1,dysarthric,SHE WILL ORDER,99.2,0,0.9924
+1_1439.npy,1,dysarthric,FEED,98.8,0,0.9884
+1_1453.npy,1,dysarthric,WHEN YOU ARE THROUG,98.1,0,0.9809
+0_386.npy,0,non_dysarthric,PARK,99.5,0,0.9953
+1_2053.npy,1,dysarthric,[unclear],99.8,0,0.9982
+1_1290.npy,1,dysarthric,IT WAS A GREAT MEET,97.7,0,0.9769
+0_89.npy,0,non_dysarthric,RE,97.3,0,0.9729
+1_1567.npy,1,dysarthric,FABEL,99.0,0,0.9903
