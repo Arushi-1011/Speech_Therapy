@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Exercises</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">
+    <div class="dot"></div>
+    SpeechPath
+  </div>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="analyse.html">Record</a>
+    <a href="exercises.html">Exercises</a>
+    <a href="progress.html">Progress</a>
+  </div>
+</nav>
+
+<main class="container">
+
+  <div class="progress-header">
+    <h1>Your Exercises</h1>
+    <p class="subtitle" id="exerciseSubtitle">Loading your personalised plan...</p>
+  </div>
+
+  <div class="score-banner" id="scoreBanner">
+    <div class="score-banner-left">
+      <div class="score-banner-label">Your clarity score</div>
+      <div class="score-banner-value" id="bannerScore">--%</div>
+    </div>
+    <div class="score-banner-right" id="bannerMessage"></div>
+  </div>
+
+  <div class="exercise-section" id="exerciseSection">
+    <h2>Recommended for you</h2>
+    <div class="exercise-list" id="exerciseList"></div>
+  </div>
+
+  <div class="exercise-section">
+    <h2>Daily routine</h2>
+    <div class="routine-card">
+      <div class="routine-row">
+        <div class="routine-icon">🌅</div>
+        <div class="routine-info">
+          <div class="routine-title">Morning warm-up</div>
+          <div class="routine-desc">5 mins of lip trills and tongue stretches before speaking</div>
+        </div>
+        <div class="routine-time">5 min</div>
+      </div>
+      <div class="routine-row">
+        <div class="routine-icon">🎯</div>
+        <div class="routine-info">
+          <div class="routine-title">Focused practice</div>
+          <div class="routine-desc">Work through your personalised exercises above</div>
+        </div>
+        <div class="routine-time">15 min</div>
+      </div>
+      <div class="routine-row">
+        <div class="routine-icon">🎙️</div>
+        <div class="routine-info">
+          <div class="routine-title">Record and analyse</div>
+          <div class="routine-desc">Record a session to track today's progress</div>
+        </div>
+        <div class="routine-time">5 min</div>
+      </div>
+      <div class="routine-row">
+        <div class="routine-icon">🌙</div>
+        <div class="routine-info">
+          <div class="routine-title">Evening review</div>
+          <div class="routine-desc">Read a paragraph aloud slowly and clearly</div>
+        </div>
+        <div class="routine-time">10 min</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="action-row">
+    <a href="analyse.html" class="cta-btn">Record another session</a>
+    <a href="progress.html" class="btn-secondary">View my progress</a>
+  </div>
+
+</main>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const score = parseFloat(params.get('score')) || null;
+const patientName = localStorage.getItem('patientName') || 'there';
+
+// Exercises grouped by severity
+const exercisePlans = {
+  severe: {
+    range: 'below 70%',
+    color: '#993C1D',
+    bg: '#FAECE7',
+    message: "Let's take this step by step. These exercises are designed for where you are right now.",
+    exercises: [
+      {
+        icon: '🐢',
+        title: 'Slow Speech Drill',
+        duration: '10 min/day',
+        desc: 'Speak at 30% of your normal speed. Exaggerate every syllable. Use a metronome app set to 60 BPM to pace yourself.',
+        tip: 'Start with single words, then short phrases. Speed comes later — clarity comes first.'
+      },
+      {
+        icon: '💨',
+        title: 'Breath Support Training',
+        duration: '5 min/day',
+        desc: 'Take a deep diaphragmatic breath before each sentence. Try to finish the full sentence on one breath without rushing.',
+        tip: 'Put one hand on your stomach — it should push outward when you breathe in correctly.'
+      },
+      {
+        icon: '👄',
+        title: 'Exaggerated Articulation',
+        duration: '10 min/day',
+        desc: 'Over-pronounce every word as if speaking to someone very far away. Focus especially on consonants at the end of words.',
+        tip: 'Record yourself and listen back. You will sound clearer than you think.'
+      },
+      {
+        icon: '🔤',
+        title: 'Phoneme Targeting',
+        duration: '10 min/day',
+        desc: 'Pick one difficult sound (e.g. /p/, /b/, /t/) and repeat it in isolation, then in words: pa-pa-pa, pat, tap, top.',
+        tip: 'Work on one sound for a full week before moving to the next.'
+      }
+    ]
+  },
+  moderate: {
+    range: '70% – 84%',
+    color: '#854F0B',
+    bg: '#FAEEDA',
+    message: "Good foundation. These exercises will sharpen your clarity further.",
+    exercises: [
+      {
+        icon: '👅',
+        title: 'Tongue Twisters',
+        duration: '5 min/day',
+        desc: 'Say "She sells seashells by the seashore" 5 times slowly, then build speed. Focus on crisp consonants, not fast delivery.',
+        tip: 'Try: "Red lorry, yellow lorry" and "Peter Piper picked a peck of pickled peppers"'
+      },
+      {
+        icon: '🎵',
+        title: 'Vowel Prolongation',
+        duration: '5 min/day',
+        desc: 'Hold each vowel sound for 5 seconds: aaa... eee... iii... ooo... uuu. Keep your voice steady and smooth throughout.',
+        tip: 'Record yourself — a wobbly or fading vowel means your breath support needs work.'
+      },
+      {
+        icon: '📈',
+        title: 'Pitch Variation',
+        duration: '5 min/day',
+        desc: 'Read a sentence going from low pitch to high, then high to low. Then try reading with natural emphasis on important words.',
+        tip: 'Monotone speech is a common feature of dysarthria. Pitch variation makes speech more intelligible.'
+      },
+      {
+        icon: '📖',
+        title: 'Oral Reading',
+        duration: '10 min/day',
+        desc: 'Read a paragraph aloud at a comfortable pace, focusing on clear word endings and natural pausing at punctuation.',
+        tip: 'Use a children\'s book or a newspaper article — content doesn\'t matter, clarity does.'
+      }
+    ]
+  },
+  mild: {
+    range: '85% and above',
+    color: '#0F6E56',
+    bg: '#E1F5EE',
+    message: "Your speech is clear. These exercises will help you maintain and strengthen it.",
+    exercises: [
+      {
+        icon: '📚',
+        title: 'Reading Aloud',
+        duration: '15 min/day',
+        desc: 'Read any text aloud clearly and expressively. Pause at commas, drop your pitch at full stops. Treat it like a performance.',
+        tip: 'Try reading news articles, short stories, or even recipe instructions aloud.'
+      },
+      {
+        icon: '🗣️',
+        title: 'Conversation Practice',
+        duration: '10 min/day',
+        desc: 'Have a focused conversation with someone and record it. Listen back and identify any moments where clarity dropped.',
+        tip: 'Self-monitoring is one of the most powerful tools for maintaining speech quality.'
+      },
+      {
+        icon: '🤸',
+        title: 'Facial Muscle Warm-up',
+        duration: '5 min/day',
+        desc: 'Lip trills (brrr), tongue circles, big smiles and tight puckers — do each 10 times before your main speaking tasks.',
+        tip: 'Think of it like stretching before exercise. Speech muscles need warm-up too.'
+      },
+      {
+        icon: '🎤',
+        title: 'Spontaneous Speech',
+        duration: '10 min/day',
+        desc: 'Describe your day, explain a topic you know well, or tell a story — without reading from anything. Focus on clarity over speed.',
+        tip: 'This trains your brain to maintain clear articulation even when attention is split.'
+      }
+    ]
+  }
+};
+
+function getplan(score) {
+  if (score === null) return exercisePlans.moderate;
+  if (score < 70) return exercisePlans.severe;
+  if (score < 85) return exercisePlans.moderate;
+  return exercisePlans.mild;
+}
+
+function renderExercises() {
+  const plan = getplan(score);
+
+  // Subtitle
+  document.getElementById('exerciseSubtitle').textContent =
+    `Personalised plan for ${patientName}`;
+
+  // Score banner
+  const banner = document.getElementById('scoreBanner');
+  banner.style.background = plan.bg;
+  banner.style.borderColor = plan.color;
+
+  if (score !== null) {
+    document.getElementById('bannerScore').textContent = score + '%';
+    document.getElementById('bannerScore').style.color = plan.color;
+  } else {
+    document.getElementById('bannerScore').textContent = 'Not yet recorded';
+    document.getElementById('bannerScore').style.color = plan.color;
+  }
+
+  document.getElementById('bannerMessage').textContent = plan.message;
+  document.getElementById('bannerMessage').style.color = plan.color;
+
+  // Exercise cards
+  const list = document.getElementById('exerciseList');
+  list.innerHTML = plan.exercises.map((ex, i) => `
+    <div class="exercise-item">
+      <div class="exercise-item-header">
+        <div class="exercise-item-icon">${ex.icon}</div>
+        <div class="exercise-item-meta">
+          <div class="exercise-item-title">${ex.title}</div>
+          <div class="exercise-item-duration">${ex.duration}</div>
+        </div>
+        <button class="exercise-toggle" onclick="toggleExercise(${i})">
+          Show details
+        </button>
+      </div>
+      <div class="exercise-item-body" id="ex-body-${i}" style="display:none">
+        <p class="exercise-desc">${ex.desc}</p>
+        <div class="exercise-tip">
+          <span>💡</span> ${ex.tip}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function toggleExercise(i) {
+  const body = document.getElementById(`ex-body-${i}`);
+  const btn = body.previousElementSibling.querySelector('.exercise-toggle');
+  const isOpen = body.style.display !== 'none';
+  body.style.display = isOpen ? 'none' : 'block';
+  btn.textContent = isOpen ? 'Show details' : 'Hide details';
+}
+
+renderExercises();
+</script>
+
+</body>
+</html>

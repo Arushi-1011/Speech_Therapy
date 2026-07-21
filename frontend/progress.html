@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Progress</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">
+    <div class="dot"></div>
+    SpeechPath
+  </div>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="analyse.html">Record</a>
+    <a href="exercises.html">Exercises</a>
+    <a href="progress.html">Progress</a>
+  </div>
+</nav>
+
+<main class="container">
+
+  <div class="progress-header">
+    <h1>Your Progress</h1>
+    <p class="subtitle" id="patientGreeting">Loading...</p>
+  </div>
+
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-value" id="totalSessions">--</div>
+      <div class="stat-label">Total sessions</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="avgScore">--%</div>
+      <div class="stat-label">Average score</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="bestScore">--%</div>
+      <div class="stat-label">Best score</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="trendValue">--</div>
+      <div class="stat-label">Trend</div>
+    </div>
+  </div>
+
+  <div class="chart-card">
+    <h2>Intelligibility score over time</h2>
+    <div class="chart-container">
+      <canvas id="progressChart"></canvas>
+      <div class="chart-empty" id="chartEmpty">
+        No sessions yet. <a href="analyse.html">Record your first session →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="history-card">
+    <h2>Session history</h2>
+    <div id="sessionList">
+      <div class="loading">Loading sessions...</div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+const patientName = localStorage.getItem('patientName') || 'Anonymous';
+
+document.getElementById('patientGreeting').textContent = 
+  `Tracking progress for ${patientName}`;
+
+async function loadProgress() {
+  try {
+    const response = await fetch(
+  `/history?patient_name=${encodeURIComponent(patientName)}`
+    );
+    const data = await response.json();
+    renderProgress(data.sessions);
+  } catch (error) {
+    document.getElementById('sessionList').innerHTML = 
+      '<div class="loading">Could not load sessions. Is the server running?</div>';
+  }
+}
+
+function renderProgress(sessions) {
+  if (!sessions || sessions.length === 0) {
+    document.getElementById('sessionList').innerHTML = 
+      '<div class="loading">No sessions found. <a href="analyse.html">Record your first session →</a></div>';
+    document.getElementById('chartEmpty').style.display = 'block';
+    document.getElementById('totalSessions').textContent = '0';
+    document.getElementById('avgScore').textContent = '--%';
+    document.getElementById('bestScore').textContent = '--%';
+    document.getElementById('trendValue').textContent = '--';
+    return;
+  }
+
+  // Calculate stats
+  const scores = sessions.map(s => parseFloat(s.intelligibility));
+  const total = sessions.length;
+  const avg = (scores.reduce((a, b) => a + b, 0) / total).toFixed(1);
+  const best = Math.max(...scores).toFixed(1);
+
+  // Trend — compare last 3 sessions avg vs first 3 sessions avg
+  let trend = '--';
+  let trendColor = '#6B6A66';
+  if (scores.length >= 2) {
+    const recent = scores.slice(-3);
+    const early = scores.slice(0, 3);
+    const recentAvg = recent.reduce((a, b) => a + b, 0) / recent.length;
+    const earlyAvg = early.reduce((a, b) => a + b, 0) / early.length;
+    const diff = (recentAvg - earlyAvg).toFixed(1);
+    if (diff > 0) {
+      trend = `+${diff}%`;
+      trendColor = '#0F6E56';
+    } else if (diff < 0) {
+      trend = `${diff}%`;
+      trendColor = '#D85A30';
+    } else {
+      trend = 'Stable';
+    }
+  }
+
+  document.getElementById('totalSessions').textContent = total;
+  document.getElementById('avgScore').textContent = avg + '%';
+  document.getElementById('bestScore').textContent = best + '%';
+  document.getElementById('trendValue').textContent = trend;
+  document.getElementById('trendValue').style.color = trendColor;
+
+  // Draw chart
+  document.getElementById('chartEmpty').style.display = 'none';
+  drawChart(sessions);
+
+  // Render session list
+  const listEl = document.getElementById('sessionList');
+  listEl.innerHTML = [...sessions].reverse().map((s, i) => {
+    const score = parseFloat(s.intelligibility).toFixed(1);
+    const scoreClass = score >= 85 ? 'score-high' : score >= 70 ? 'score-mid' : 'score-low';
+    const date = new Date(s.timestamp).toLocaleDateString('en-IN', {
+      day: 'numeric', month: 'short', year: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+    return `
+      <div class="session-row">
+        <div class="session-info">
+          <div class="session-date">${date}</div>
+          <div class="session-prediction ${s.prediction === 'Non-Dysarthric' ? 'pred-good' : 'pred-bad'}">
+            ${s.prediction}
+          </div>
+        </div>
+        <div class="session-score ${scoreClass}">${score}%</div>
+      </div>`;
+  }).join('');
+}
+
+function drawChart(sessions) {
+  const canvas = document.getElementById('progressChart');
+  const ctx = canvas.getContext('2d');
+
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.parentElement.getBoundingClientRect();
+  canvas.width = rect.width * dpr;
+  canvas.height = 220 * dpr;
+  canvas.style.width = rect.width + 'px';
+  canvas.style.height = '220px';
+  ctx.scale(dpr, dpr);
+
+  const width = rect.width;
+  const height = 220;
+  const padL = 48, padR = 24, padT = 20, padB = 40;
+  const chartW = width - padL - padR;
+  const chartH = height - padT - padB;
+
+  const scores = sessions.map(s => parseFloat(s.intelligibility));
+  const labels = sessions.map(s => {
+    const d = new Date(s.timestamp);
+    return `${d.getDate()}/${d.getMonth() + 1}`;
+  });
+
+  // Grid lines
+  ctx.strokeStyle = '#E5E3DC';
+  ctx.lineWidth = 1;
+  [0, 25, 50, 75, 100].forEach(v => {
+    const y = padT + chartH - (v / 100) * chartH;
+    ctx.beginPath();
+    ctx.moveTo(padL, y);
+    ctx.lineTo(padL + chartW, y);
+    ctx.stroke();
+    ctx.fillStyle = '#9A9890';
+    ctx.font = '11px -apple-system, sans-serif';
+    ctx.textAlign = 'right';
+    ctx.fillText(v + '%', padL - 6, y + 4);
+  });
+
+  // Line
+  const step = scores.length > 1 ? chartW / (scores.length - 1) : chartW;
+  ctx.strokeStyle = '#534AB7';
+  ctx.lineWidth = 2.5;
+  ctx.lineJoin = 'round';
+  ctx.beginPath();
+  scores.forEach((score, i) => {
+    const x = padL + i * step;
+    const y = padT + chartH - (score / 100) * chartH;
+    i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+  });
+  ctx.stroke();
+
+  // Fill under line
+  ctx.beginPath();
+  scores.forEach((score, i) => {
+    const x = padL + i * step;
+    const y = padT + chartH - (score / 100) * chartH;
+    i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+  });
+  ctx.lineTo(padL + (scores.length - 1) * step, padT + chartH);
+  ctx.lineTo(padL, padT + chartH);
+  ctx.closePath();
+  const gradient = ctx.createLinearGradient(0, padT, 0, padT + chartH);
+  gradient.addColorStop(0, 'rgba(83,74,183,0.2)');
+  gradient.addColorStop(1, 'rgba(83,74,183,0)');
+  ctx.fillStyle = gradient;
+  ctx.fill();
+
+  // Dots and labels
+  scores.forEach((score, i) => {
+    const x = padL + i * step;
+    const y = padT + chartH - (score / 100) * chartH;
+    ctx.beginPath();
+    ctx.arc(x, y, 4, 0, Math.PI * 2);
+    ctx.fillStyle = '#534AB7';
+    ctx.fill();
+    ctx.fillStyle = '#6B6A66';
+    ctx.font = '10px -apple-system, sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText(labels[i], x, height - 8);
+  });
+}
+
+loadProgress();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyse Your Speech</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">
+    <div class="dot"></div>
+    SpeechPath
+  </div>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="analyse.html">Record</a>
+    <a href="exercises.html">Exercises</a>
+    <a href="progress.html">Progress</a>
+  </div>
+</nav>
+
+<main class="container">
+  <h1>Record your voice</h1>
+  <p class="subtitle">Speak clearly into your microphone. Say something like: <em>"The weather is nice today."</em></p>
+
+  <div class="record-card">
+
+    <div class="waveform" id="waveform">
+      <span></span><span></span><span></span>
+      <span></span><span></span><span></span>
+    </div>
+
+    <button class="record-btn" id="recordBtn" onclick="toggleRecording()">
+      Start recording
+    </button>
+
+    <p class="record-status" id="recordStatus">Press the button to begin</p>
+
+  </div>
+
+  <div class="results-card hidden" id="resultsCard">
+
+    <div class="score-circle" id="scoreCircle">
+      <span id="scoreNumber">--</span>
+      <small>clarity</small>
+    </div>
+
+    <div class="result-details">
+      <h2 id="predictionText">Analysing...</h2>
+      <p id="predictionExplain"></p>
+
+      <div class="confidence-row">
+        <span>Model confidence</span>
+        <span id="confidenceVal">--%</span>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </div>
+
+    <a href="exercises.html" class="cta-btn" id="exerciseLink">
+      See my exercises
+    </a>
+
+  </div>
+</main>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

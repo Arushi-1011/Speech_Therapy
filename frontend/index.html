@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Speech Therapy Assistant</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">
+    <div class="dot"></div>
+    SpeechPath
+  </div>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="analyse.html">Record</a>
+    <a href="exercises.html">Exercises</a>
+    <a href="progress.html">Progress</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-badge">
+    <i class="ti ti-sparkles" aria-hidden="true"></i>
+    AI-powered speech therapy
+  </div>
+  <h1>Practice your speech.<br><span>Get better, every day.</span></h1>
+  <p>Record your voice, get instant feedback on your speech clarity, and receive personalized exercises — all from home, at your own pace.</p>
+
+  <div class="name-box">
+    <label for="patient-name">What's your name?</label>
+    <input type="text" id="patient-name" placeholder="e.g. Rahul, Priya..." />
+  </div>
+
+  <button class="cta-btn" onclick="startSession()">
+    <i class="ti ti-microphone" aria-hidden="true"></i>
+    Start my session
+  </button>
+</div>
+
+<div class="features">
+  <div class="feature-card">
+    <div class="feature-icon"><i class="ti ti-microphone" aria-hidden="true"></i></div>
+    <h3>Voice analysis</h3>
+    <p>Record a short voice sample and get an instant clarity score.</p>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon"><i class="ti ti-heart-rate-monitor" aria-hidden="true"></i></div>
+    <h3>Personalized exercises</h3>
+    <p>Exercises matched to your specific speech patterns and severity.</p>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon"><i class="ti ti-chart-line" aria-hidden="true"></i></div>
+    <h3>Track progress</h3>
+    <p>See your improvement over weeks with session-by-session charts.</p>
+  </div>
+</div>
+
+<div class="how-it-works">
+  <h2>How it works</h2>
+  <div class="steps">
+    <div class="step">
+      <div class="step-num">1</div>
+      <h4>Record</h4>
+      <p>Speak a short phrase into your mic</p>
+    </div>
+    <div class="step-line"></div>
+    <div class="step">
+      <div class="step-num">2</div>
+      <h4>Analyse</h4>
+      <p>AI checks your speech clarity</p>
+    </div>
+    <div class="step-line"></div>
+    <div class="step">
+      <div class="step-num">3</div>
+      <h4>Practice</h4>
+      <p>Get exercises made for you</p>
+    </div>
+    <div class="step-line"></div>
+    <div class="step">
+      <div class="step-num">4</div>
+      <h4>Improve</h4>
+      <p>Track your progress over time</p>
+    </div>
+  </div>
+</div>
+
+<script>
+function startSession() {
+  const name = document.getElementById('patient-name').value.trim();
+  if (!name) {
+    document.getElementById('patient-name').focus();
+    document.getElementById('patient-name').style.borderColor = '#D85A30';
+    setTimeout(() => document.getElementById('patient-name').style.borderColor = '', 1500);
+    return;
+  }
+  localStorage.setItem('patientName', name);
+  window.location.href = 'analyse.html';
+}
+</script>
+
+</body>
+</html>

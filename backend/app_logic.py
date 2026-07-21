@@ -1,4 +1,3 @@
-﻿import gradio as gr
 import numpy as np
 import librosa
 import joblib
@@ -10,8 +9,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from datetime import datetime
 
-model = joblib.load("dysarthria_model_v2.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load("models/dysarthria_model_v2.pkl")
+scaler = joblib.load("models/scaler.pkl")
 SAMPLE_RATE = 16000
 N_MFCC = 40
 
@@ -132,6 +131,7 @@ def analyse_audio(audio_input, patient_name):
     if not patient_name.strip():
         patient_name = "Anonymous"
     sr, audio_data = audio_input
+    #print(f"DEBUG2: sr={sr}, audio_data dtype={audio_data.dtype}, shape={audio_data.shape}")
     audio = audio_data.astype(np.float32)
     if audio.max() > 1.0:
         audio = audio / 32768.0
@@ -154,11 +154,15 @@ def analyse_audio(audio_input, patient_name):
     except Exception as e:
         return None, f"Error: {e}", "", ""
     rms = librosa.feature.rms(y=audio)[0]
-    rms_cv = np.std(rms) / (np.mean(rms) + 1e-8)
-    base_score = max(0, min(100, 100 - rms_cv * 200))
-    if prediction == "Dysarthric":
-        base_score = base_score * 0.75
-    intelligibility = round(base_score, 1)
+    # rms_cv = np.std(rms) / (np.mean(rms) + 1e-8)
+    # base_score = max(0, min(100, 100 - rms_cv * 200))
+    # if prediction == "Dysarthric":
+    #     base_score = base_score * 0.75
+    # intelligibility = round(base_score, 1)
+    if prediction == "Non-Dysarthric":
+        intelligibility = float(round(50 + (confidence / 100) * 50, 1))
+    else:
+        intelligibility = float(round(50 - (confidence / 100) * 50, 1))
     threshold = np.mean(rms) * 0.3
     error_segments = []
     in_error = False
@@ -191,28 +195,3 @@ Analysed At: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"""
     else:
         history_text = "First session recorded! Keep practising to track your progress."
     return plot_path, result_text, exercises, history_text
-
-with gr.Blocks(title="Speech Therapy Assistant", theme=gr.themes.Soft()) as app:
-    gr.Markdown("# Speech Therapy Assistant\n### Dysarthria Detection and Speech Feedback System")
-    with gr.Row():
-        with gr.Column(scale=1):
-            patient_name = gr.Textbox(label="Patient Name", placeholder="Enter your name...", value="Patient")
-            audio_input = gr.Audio(label="Record or Upload Voice Sample", type="numpy", sources=["microphone", "upload"])
-            analyse_btn = gr.Button("Analyse Speech", variant="primary", size="lg")
-        with gr.Column(scale=2):
-            waveform_plot = gr.Image(label="Waveform and Intelligibility Score")
-            result_text = gr.Markdown(label="Analysis Result")
-    with gr.Row():
-        with gr.Column():
-            exercises_out = gr.Markdown(label="Therapy Exercises")
-        with gr.Column():
-            history_out = gr.Markdown(label="Session History")
-    analyse_btn.click(
-        fn=analyse_audio,
-        inputs=[audio_input, patient_name],
-        outputs=[waveform_plot, result_text, exercises_out, history_out]
-    )
-    gr.Markdown("---\n*Built with TORGO Dataset | Wav2Vec2 | XGBoost | Gradio*")
-
-if name == "main":
-    app.launch(share=True)
